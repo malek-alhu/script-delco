@@ -2596,5 +2596,2087 @@
     "desc_2025": "Fabbricazione di altre macchine per l'agricoltura e la silvicoltura n.c.a.",
     "codice_primario": "28.30.9",
     "desc_primario": "Fabbricazione di altre macchine per l'agricoltura, la silvicoltura e la zootecnia"
+  },
+  "03472620404": {
+    "codice_2025": "27.12",
+    "desc_2025": "Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità",
+    "codice_primario": "27.12",
+    "desc_primario": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità"
+  },
+  "01210490387": {
+    "codice_2025": "28.99.2",
+    "desc_2025": "Fabbricazione di robot industriali con compiti multipli per scopi speciali",
+    "codice_primario": "28.99.2",
+    "desc_primario": "Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)"
+  },
+  "02977670369": {
+    "codice_2025": "28.22.09",
+    "desc_2025": "Fabbricazione di altri apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.22.09",
+    "desc_primario": "Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione"
+  },
+  "02423401203": {
+    "codice_2025": "46.61",
+    "desc_2025": "Commercio all'ingrosso di macchinari, attrezzature e forniture agricole",
+    "codice_primario": "46.61",
+    "desc_primario": "Commercio all'ingrosso di macchinari, attrezzature e forniture agricole"
+  },
+  "02679110367": {
+    "codice_2025": "28.3",
+    "desc_2025": "Fabbricazione di macchine per l'agricoltura e la silvicoltura",
+    "codice_primario": "28.3",
+    "desc_primario": "FABBRICAZIONE DI MACCHINE PER L'AGRICOLTURA E LA SILVICOLTURA"
+  },
+  "00223630237": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "00884980442": {
+    "codice_2025": "46.62",
+    "desc_2025": "Commercio all'ingrosso di macchine utensili",
+    "codice_primario": "46.62",
+    "desc_primario": "Commercio all'ingrosso di macchine utensili"
+  },
+  "NL802332146B01": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "00231590340": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "02986621205": {
+    "codice_2025": "27.11",
+    "desc_2025": "Fabbricazione di motori, generatori e trasformatori elettrici",
+    "codice_primario": "27.11",
+    "desc_primario": "Fabbricazione di motori, generatori e trasformatori elettrici"
+  },
+  "03240390405": {
+    "codice_2025": "22.26.99",
+    "desc_2025": "Fabbricazione di altri prodotti vari in materie plastiche n.c.a.",
+    "codice_primario": "22.29.09",
+    "desc_primario": "Fabbricazione di altri articoli in materie plastiche n.c.a."
+  },
+  "03419050368": {
+    "codice_2025": "33.12",
+    "desc_2025": "Riparazione e manutenzione di macchinari",
+    "codice_primario": "33.12",
+    "desc_primario": "Riparazione e manutenzione di macchinari"
+  },
+  "02867890366": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "01894250362": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "04015970405": {
+    "codice_2025": "28.99.2",
+    "desc_2025": "Fabbricazione di robot industriali con compiti multipli per scopi speciali",
+    "codice_primario": "28.99.2",
+    "desc_primario": "Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)"
+  },
+  "02374840342": {
+    "codice_2025": "46.63",
+    "desc_2025": "Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l'ingegneria civile",
+    "codice_primario": "46.63",
+    "desc_primario": "Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l'ingegneria civile"
+  },
+  "03244801209": {
+    "codice_2025": "28.30.99",
+    "desc_2025": "Fabbricazione di altre macchine per l'agricoltura e la silvicoltura n.c.a.",
+    "codice_primario": "28.30.9",
+    "desc_primario": "Fabbricazione di altre macchine per l'agricoltura, la silvicoltura e la zootecnia"
+  },
+  "01842021204": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "03421980362": {
+    "codice_2025": "28.22.09",
+    "desc_2025": "Fabbricazione di altri apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.22.02",
+    "desc_primario": "Fabbricazione di gru, argani, verricelli a mano e a motore, carrelli trasbordatori, carrelli elevatori e piattaforme girevoli"
+  },
+  "04313760375": {
+    "codice_2025": "28.15",
+    "desc_2025": "Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",
+    "codice_primario": "28.15.1",
+    "desc_primario": "Fabbricazione di organi di trasmissione (esclusi quelli idraulici e quelli per autoveicoli, aeromobili e motocicli)"
+  },
+  "02082500402": {
+    "codice_2025": "28.41",
+    "desc_2025": "Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili per la lavorazione dei metalli",
+    "codice_primario": "28.41",
+    "desc_primario": "Fabbricazione di macchine utensili per la formatura dei metalli"
+  },
+  "03394020402": {
+    "codice_2025": "43.21",
+    "desc_2025": "Installazione di impianti elettrici",
+    "codice_primario": "43.21.02",
+    "desc_primario": "Installazione di impianti elettronici (inclusa manutenzione e riparazione)"
+  },
+  "02864900366": {
+    "codice_2025": "28.22.09",
+    "desc_2025": "Fabbricazione di altri apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.22.09",
+    "desc_primario": "Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione"
+  },
+  "01568710386": {
+    "codice_2025": "27.90.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature elettriche n.c.a.",
+    "codice_primario": "27.90.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature elettriche n.c.a."
+  },
+  "02400970360": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "01131250381": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "03205631207": {
+    "codice_2025": "33.12.1",
+    "desc_2025": "Riparazione e manutenzione di motori, turbine, pompe, compressori e altri elementi simili",
+    "codice_primario": "33.12.1",
+    "desc_primario": "Riparazione e manutenzione di macchine di impiego generale"
+  },
+  "00220510358": {
+    "codice_2025": "28.4",
+    "desc_2025": "Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili",
+    "codice_primario": "28.4",
+    "desc_primario": "FABBRICAZIONE DI MACCHINE PER LA FORMATURA DEI METALLI E DI ALTRE MACCHINE UTENSILI"
+  },
+  "03272451208": {
+    "codice_2025": "28.96",
+    "desc_2025": "Fabbricazione di macchine per l'industria delle materie plastiche e della gomma",
+    "codice_primario": "28.96",
+    "desc_primario": "Fabbricazione di macchine per l'industria delle materie plastiche e della gomma (incluse parti e accessori)"
+  },
+  "00710640368": {
+    "codice_2025": "46.64.99",
+    "desc_2025": "Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.",
+    "codice_primario": "46.69.99",
+    "desc_primario": "Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+  },
+  "01730900402": {
+    "codice_2025": "33.12.99",
+    "desc_2025": "Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.",
+    "codice_primario": "33.12.99",
+    "desc_primario": "Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)"
+  },
+  "02981921204": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "02484010372": {
+    "codice_2025": "33.13",
+    "desc_2025": "Riparazione e manutenzione di apparecchiature elettroniche e ottiche",
+    "codice_primario": "33.13",
+    "desc_primario": "Riparazione e manutenzione di apparecchiature elettroniche ed ottiche"
+  },
+  "03058601208": {
+    "codice_2025": "28.4",
+    "desc_2025": "Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili",
+    "codice_primario": "28.4",
+    "desc_primario": "FABBRICAZIONE DI MACCHINE PER LA FORMATURA DEI METALLI E DI ALTRE MACCHINE UTENSILI"
+  },
+  "02322650363": {
+    "codice_2025": "46.64.99",
+    "desc_2025": "Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.",
+    "codice_primario": "46.69.99",
+    "desc_primario": "Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+  },
+  "02713111207": {
+    "codice_2025": "27.90.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature elettriche n.c.a.",
+    "codice_primario": "27.90.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature elettriche n.c.a."
+  },
+  "04025140403": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "03536420361": {
+    "codice_2025": "28.23",
+    "desc_2025": "Fabbricazione di macchine e attrezzature per ufficio, esclusi computer e unità periferiche",
+    "codice_primario": "28.23.09",
+    "desc_primario": "Fabbricazione di macchine ed altre attrezzature per ufficio (esclusi computer e periferiche)"
+  },
+  "02079210361": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "03281801203": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "02130271204": {
+    "codice_2025": "28.29.49",
+    "desc_2025": "Fabbricazione di altre macchine per la pulizia per uso non domestico",
+    "codice_primario": "28.29.92",
+    "desc_primario": "Fabbricazione di macchine per la pulizia (incluse le lavastoviglie) per uso non domestico"
+  },
+  "02304720481": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "02352751206": {
+    "codice_2025": "27.33",
+    "desc_2025": "Fabbricazione di attrezzature per cablaggio",
+    "codice_primario": "27.33",
+    "desc_primario": "Fabbricazione di attrezzature per cablaggio"
+  },
+  "02407431200": {
+    "codice_2025": "33.12.3",
+    "desc_2025": "Riparazione e manutenzione di apparecchi di sollevamento e movimentazione",
+    "codice_primario": "33.12.3",
+    "desc_primario": "Riparazione e manutenzione di macchine e apparecchi di sollevamento e movimentazione (esclusi ascensori)"
+  },
+  "00530661206": {
+    "codice_2025": "33.20.09",
+    "desc_2025": "Installazione di altre macchine e apparecchiature industriali",
+    "codice_primario": "33.20.09",
+    "desc_primario": "Installazione di altre macchine ed apparecchiature industriali"
+  },
+  "04100060401": {
+    "codice_2025": "27.12",
+    "desc_2025": "Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità",
+    "codice_primario": "27.12",
+    "desc_primario": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità"
+  },
+  "03355001201": {
+    "codice_2025": "46.64.99",
+    "desc_2025": "Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.",
+    "codice_primario": "46.69.99",
+    "desc_primario": "Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+  },
+  "03591001205": {
+    "codice_2025": "27.90.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature elettriche n.c.a.",
+    "codice_primario": "27.90.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature elettriche n.c.a."
+  },
+  "03575150366": {
+    "codice_2025": "28.29.99",
+    "desc_2025": "Fabbricazione di altre macchine varie di impiego generale n.c.a.",
+    "codice_primario": "28.29.99",
+    "desc_primario": "Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a."
+  },
+  "03375481201": {
+    "codice_2025": "28.41",
+    "desc_2025": "Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili per la lavorazione dei metalli",
+    "codice_primario": "28.41",
+    "desc_primario": "Fabbricazione di macchine utensili per la formatura dei metalli"
+  },
+  "01709680365": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "01912190384": {
+    "codice_2025": "None",
+    "desc_2025": "",
+    "codice_primario": "28.99.99",
+    "desc_primario": ""
+  },
+  "SM04152": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "02612830360": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "03804730483": {
+    "codice_2025": "46.47.3",
+    "desc_2025": "Commercio all'ingrosso di articoli per l'illuminazione per la casa, l'ufficio e i negozi",
+    "codice_primario": "46.47.3",
+    "desc_primario": "Commercio all'ingrosso di articoli per l'illuminazione; materiale elettrico vario per uso domestico"
+  },
+  "03588000368": {
+    "codice_2025": "28.42",
+    "desc_2025": "Fabbricazione di altre macchine utensili",
+    "codice_primario": "28.49.09",
+    "desc_primario": "Fabbricazione di altre macchine utensili (incluse parti e accessori) n.c.a."
+  },
+  "01901260354": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "00360820369": {
+    "codice_2025": "29.32",
+    "desc_2025": "Fabbricazione di altre parti e accessori per autoveicoli",
+    "codice_primario": "29.32.09",
+    "desc_primario": "Fabbricazione di altre parti ed accessori per autoveicoli e loro motori n.c.a."
+  },
+  "03281620546": {
+    "codice_2025": "28.2",
+    "desc_2025": "Fabbricazione di altre macchine di impiego generale",
+    "codice_primario": "28.2",
+    "desc_primario": "FABBRICAZIONE DI ALTRE MACCHINE DI IMPIEGO GENERALE"
+  },
+  "00957350960": {
+    "codice_2025": "28.22.01",
+    "desc_2025": "Fabbricazione di ascensori, scale mobili e tappeti mobili",
+    "codice_primario": "28.22.01",
+    "desc_primario": "Fabbricazione di ascensori, montacarichi e scale mobili"
+  },
+  "00810500363": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "02897311201": {
+    "codice_2025": "28.15",
+    "desc_2025": "Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",
+    "codice_primario": "28.15",
+    "desc_primario": "Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione (esclusi quelli idraulici)"
+  },
+  "02887181200": {
+    "codice_2025": "26.12",
+    "desc_2025": "Fabbricazione di schede elettroniche integrate",
+    "codice_primario": "26.12",
+    "desc_primario": "Fabbricazione di schede elettroniche assemblate"
+  },
+  "03393421205": {
+    "codice_2025": "27.11",
+    "desc_2025": "Fabbricazione di motori, generatori e trasformatori elettrici",
+    "codice_primario": "27.11",
+    "desc_primario": "Fabbricazione di motori, generatori e trasformatori elettrici"
+  },
+  "03807870401": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "03945010365": {
+    "codice_2025": "26.70.12",
+    "desc_2025": "Fabbricazione di strumenti ottici di misurazione e controllo",
+    "codice_primario": "26.70.12",
+    "desc_primario": "Fabbricazione di attrezzature ottiche di misurazione e controllo"
+  },
+  "01292320361": {
+    "codice_2025": "25.21.2",
+    "desc_2025": "Fabbricazione di generatori di vapore",
+    "codice_primario": "25.3",
+    "desc_primario": "FABBRICAZIONE DI GENERATORI DI VAPORE (ESCLUSI I CONTENITORI IN METALLO PER CALDAIE PER IL RISCALDAMENTO CENTRALE AD ACQUA CALDA)"
+  },
+  "02523390397": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "02607081201": {
+    "codice_2025": "28.91",
+    "desc_2025": "Fabbricazione di macchine per la metallurgia",
+    "codice_primario": "28.91",
+    "desc_primario": "Fabbricazione di macchine per la metallurgia"
+  },
+  "03105731206": {
+    "codice_2025": "None",
+    "desc_2025": "",
+    "codice_primario": "13.91",
+    "desc_primario": ""
+  },
+  "00934450362": {
+    "codice_2025": "28.2",
+    "desc_2025": "Fabbricazione di altre macchine di impiego generale",
+    "codice_primario": "28.2",
+    "desc_primario": "FABBRICAZIONE DI ALTRE MACCHINE DI IMPIEGO GENERALE"
+  },
+  "00600761209": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "04206100408": {
+    "codice_2025": "46.84.2",
+    "desc_2025": "Commercio all'ingrosso di apparecchi e accessori per impianti idraulici e di riscaldamento",
+    "codice_primario": "46.74.2",
+    "desc_primario": "Commercio all'ingrosso di apparecchi e accessori per impianti idraulici, di riscaldamento e di condizionamento"
+  },
+  "03161551209": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "03601330362": {
+    "codice_2025": "28.42",
+    "desc_2025": "Fabbricazione di altre macchine utensili",
+    "codice_primario": "28.49.09",
+    "desc_primario": "Fabbricazione di altre macchine utensili (incluse parti e accessori) n.c.a."
+  },
+  "01854570361": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "03197890365": {
+    "codice_2025": "28.22.09",
+    "desc_2025": "Fabbricazione di altri apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.22.09",
+    "desc_primario": "Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione"
+  },
+  "01037050422": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "00862731205": {
+    "codice_2025": "46.64.2",
+    "desc_2025": "Commercio all'ingrosso di materiale elettrico per impianti industriali",
+    "codice_primario": "46.69.2",
+    "desc_primario": "Commercio all'ingrosso di materiale elettrico per impianti di uso industriale"
+  },
+  "02343350407": {
+    "codice_2025": "28.42",
+    "desc_2025": "Fabbricazione di altre macchine utensili",
+    "codice_primario": "28.49.09",
+    "desc_primario": "Fabbricazione di altre macchine utensili (incluse parti e accessori) n.c.a."
+  },
+  "02530360391": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "00313860363": {
+    "codice_2025": "43.99.01",
+    "desc_2025": "Noleggio di gru e altre attrezzature edili con operatore",
+    "codice_primario": "43.99.02",
+    "desc_primario": "Noleggio di gru ed altre attrezzature con operatore per la costruzione o la demolizione"
+  },
+  "03589480403": {
+    "codice_2025": "28.3",
+    "desc_2025": "Fabbricazione di macchine per l'agricoltura e la silvicoltura",
+    "codice_primario": "28.3",
+    "desc_primario": "FABBRICAZIONE DI MACCHINE PER L'AGRICOLTURA E LA SILVICOLTURA"
+  },
+  "02498261201": {
+    "codice_2025": "25.11",
+    "desc_2025": "Fabbricazione di strutture metalliche e di parti di strutture metalliche",
+    "codice_primario": "25.11",
+    "desc_primario": "Fabbricazione di strutture metalliche e di parti di strutture"
+  },
+  "02196721209": {
+    "codice_2025": "62.1",
+    "desc_2025": "Attività di programmazione informatica",
+    "codice_primario": "62.01",
+    "desc_primario": "Produzione di software non connesso all'edizione"
+  },
+  "04008710370": {
+    "codice_2025": "46.64.19",
+    "desc_2025": "Commercio all'ingrosso di altri mezzi di trasporto",
+    "codice_primario": "46.69.19",
+    "desc_primario": "Commercio all'ingrosso di altri mezzi ed attrezzature di trasporto"
+  },
+  "10469360159": {
+    "codice_2025": "46.44.4",
+    "desc_2025": "Commercio all'ingrosso di prodotti per la pulizia",
+    "codice_primario": "46.44.3",
+    "desc_primario": "Commercio all'ingrosso di saponi, detersivi e altri prodotti per la pulizia"
+  },
+  "03448841209": {
+    "codice_2025": "27.12",
+    "desc_2025": "Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità",
+    "codice_primario": "27.12",
+    "desc_primario": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità"
+  },
+  "02629110343": {
+    "codice_2025": "33.20.09",
+    "desc_2025": "Installazione di altre macchine e apparecchiature industriali",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "00213040280": {
+    "codice_2025": "46.64.99",
+    "desc_2025": "Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.",
+    "codice_primario": "46.69.99",
+    "desc_primario": "Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+  },
+  "01527961203": {
+    "codice_2025": "28.22.01",
+    "desc_2025": "Fabbricazione di ascensori, scale mobili e tappeti mobili",
+    "codice_primario": "28.22.01",
+    "desc_primario": "Fabbricazione di ascensori, montacarichi e scale mobili"
+  },
+  "03452711207": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "01976720381": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "03527361202": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "00662271204": {
+    "codice_2025": "27.11",
+    "desc_2025": "Fabbricazione di motori, generatori e trasformatori elettrici",
+    "codice_primario": "27.11",
+    "desc_primario": "Fabbricazione di motori, generatori e trasformatori elettrici"
+  },
+  "02873661207": {
+    "codice_2025": "28.12",
+    "desc_2025": "Fabbricazione di apparecchiature fluidodinamiche",
+    "codice_primario": "28.12",
+    "desc_primario": "Fabbricazione di apparecchiature fluidodinamiche"
+  },
+  "04320910377": {
+    "codice_2025": "26.12",
+    "desc_2025": "Fabbricazione di schede elettroniche integrate",
+    "codice_primario": "26.12",
+    "desc_primario": "Fabbricazione di schede elettroniche assemblate"
+  },
+  "SM23980": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "02595740347": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "03594681201": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "03418500363": {
+    "codice_2025": "33.12.3",
+    "desc_2025": "Riparazione e manutenzione di apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.2",
+    "desc_primario": "FABBRICAZIONE DI ALTRE MACCHINE DI IMPIEGO GENERALE"
+  },
+  "03140011200": {
+    "codice_2025": "47.81.1",
+    "desc_2025": "Commercio al dettaglio di automobili e autoveicoli leggeri",
+    "codice_primario": "45.11.01",
+    "desc_primario": "Commercio all'ingrosso e al dettaglio di autovetture e di autoveicoli leggeri"
+  },
+  "03723320366": {
+    "codice_2025": "33.20.09",
+    "desc_2025": "Installazione di altre macchine e apparecchiature industriali",
+    "codice_primario": "33.20.02",
+    "desc_primario": "Installazione di apparecchi elettrici ed elettronici per telecomunicazioni, di apparecchi trasmittenti radiotelevisivi, di impianti di apparecchiature elettriche ed elettroniche (esclusa l'installazione all'interno degli edifici)"
+  },
+  "03404491205": {
+    "codice_2025": "27.33",
+    "desc_2025": "Fabbricazione di attrezzature per cablaggio",
+    "codice_primario": "27.33.09",
+    "desc_primario": "Fabbricazione di altre attrezzature per cablaggio"
+  },
+  "02273951208": {
+    "codice_2025": "62.1",
+    "desc_2025": "Attività di programmazione informatica",
+    "codice_primario": "62.01",
+    "desc_primario": "Produzione di software non connesso all'edizione"
+  },
+  "03285900969": {
+    "codice_2025": "28.12",
+    "desc_2025": "Fabbricazione di apparecchiature fluidodinamiche",
+    "codice_primario": "28.12",
+    "desc_primario": "Fabbricazione di apparecchiature fluidodinamiche"
+  },
+  "04644850283": {
+    "codice_2025": "43.23",
+    "desc_2025": "Installazione di sistemi per l'isolamento",
+    "codice_primario": "43.29.02",
+    "desc_primario": "Lavori di isolamento termico, acustico o antivibrazioni"
+  },
+  "01943080224": {
+    "codice_2025": "28.22.09",
+    "desc_2025": "Fabbricazione di altri apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.22.02",
+    "desc_primario": "Fabbricazione di gru, argani, verricelli a mano e a motore, carrelli trasbordatori, carrelli elevatori e piattaforme girevoli"
+  },
+  "03531830366": {
+    "codice_2025": "33.20.03",
+    "desc_2025": "Installazione di strumenti e apparecchi di misurazione e controllo",
+    "codice_primario": "33.20.03",
+    "desc_primario": "Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)"
+  },
+  "09865430962": {
+    "codice_2025": "26.12",
+    "desc_2025": "Fabbricazione di schede elettroniche integrate",
+    "codice_primario": "26.12",
+    "desc_primario": "Fabbricazione di schede elettroniche assemblate"
+  },
+  "01946480439": {
+    "codice_2025": "46.9",
+    "desc_2025": "Commercio all'ingrosso non specializzato",
+    "codice_primario": "46.9",
+    "desc_primario": "COMMERCIO ALL'INGROSSO NON SPECIALIZZATO"
+  },
+  "01282340361": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "03904790361": {
+    "codice_2025": "27.90.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature elettriche n.c.a.",
+    "codice_primario": "27.90.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature elettriche n.c.a."
+  },
+  "02987521206": {
+    "codice_2025": "27",
+    "desc_2025": "Fabbricazione di apparecchiature elettriche",
+    "codice_primario": "27",
+    "desc_primario": "FABBRICAZIONE DI APPARECCHIATURE ELETTRICHE ED APPARECCHIATURE PER USO DOMESTICO NON ELETTRICHE"
+  },
+  "00178990362": {
+    "codice_2025": "28.12",
+    "desc_2025": "Fabbricazione di apparecchiature fluidodinamiche",
+    "codice_primario": "28.12",
+    "desc_primario": "Fabbricazione di apparecchiature fluidodinamiche"
+  },
+  "03107931200": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "01781981202": {
+    "codice_2025": "30.91.2",
+    "desc_2025": "Fabbricazione di parti e accessori per motocicli",
+    "codice_primario": "30.91.2",
+    "desc_primario": "Fabbricazione di accessori e pezzi staccati per motocicli e ciclomotori"
+  },
+  "01625490352": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "02554340139": {
+    "codice_2025": "28.29.99",
+    "desc_2025": "Fabbricazione di altre macchine varie di impiego generale n.c.a.",
+    "codice_primario": "28.29.99",
+    "desc_primario": "Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a."
+  },
+  "02775920354": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "03366030405": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "01923020356": {
+    "codice_2025": "25.11",
+    "desc_2025": "Fabbricazione di strutture metalliche e di parti di strutture metalliche",
+    "codice_primario": "25.11",
+    "desc_primario": "Fabbricazione di strutture metalliche e di parti di strutture"
+  },
+  "03347160362": {
+    "codice_2025": "46.86.9",
+    "desc_2025": "Commercio all'ingrosso di altri prodotti intermedi n.c.a.",
+    "codice_primario": "46.76.9",
+    "desc_primario": "Commercio all'ingrosso di altri prodotti intermedi n.c.a."
+  },
+  "03692160132": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.99",
+    "desc_primario": "Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a."
+  },
+  "04370360408": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "00598711208": {
+    "codice_2025": "25.63.2",
+    "desc_2025": "Fabbricazione di stampi, portastampi, sagome, forme per macchine",
+    "codice_primario": "25.73.2",
+    "desc_primario": "Fabbricazione di stampi, portastampi, sagome, forme per macchine"
+  },
+  "00619251200": {
+    "codice_2025": "62.1",
+    "desc_2025": "Attività di programmazione informatica",
+    "codice_primario": "62.01",
+    "desc_primario": "Produzione di software non connesso all'edizione"
+  },
+  "03593210366": {
+    "codice_2025": "33.12",
+    "desc_2025": "Riparazione e manutenzione di macchinari",
+    "codice_primario": "33.12",
+    "desc_primario": "Riparazione e manutenzione di macchinari"
+  },
+  "03787490360": {
+    "codice_2025": "27.12",
+    "desc_2025": "Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità",
+    "codice_primario": "27.12",
+    "desc_primario": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità"
+  },
+  "03438920369": {
+    "codice_2025": "32.50.52",
+    "desc_2025": "Fabbricazione di forniture mediche e dentistiche",
+    "codice_primario": "32.99.19",
+    "desc_primario": "Fabbricazione di altre attrezzature ed altri articoli protettivi di sicurezza"
+  },
+  "00500291208": {
+    "codice_2025": "28.30.1",
+    "desc_2025": "Fabbricazione di trattori per l'agricoltura e la silvicoltura",
+    "codice_primario": "28.30.1",
+    "desc_primario": "Fabbricazione di trattori agricoli"
+  },
+  "03686431200": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "04288140405": {
+    "codice_2025": "27.12",
+    "desc_2025": "Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità",
+    "codice_primario": "27.12",
+    "desc_primario": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità"
+  },
+  "03638861207": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "02670710355": {
+    "codice_2025": "29.31",
+    "desc_2025": "Fabbricazione di apparecchiature elettriche ed elettroniche per autoveicoli",
+    "codice_primario": "29.31",
+    "desc_primario": "Fabbricazione di apparecchiature elettriche ed elettroniche per autoveicoli e loro motori"
+  },
+  "00501281208": {
+    "codice_2025": "25.5",
+    "desc_2025": "Trattamento e rivestimento dei metalli; lavori di meccanica generale",
+    "codice_primario": "25.61",
+    "desc_primario": "Trattamento e rivestimento dei metalli"
+  },
+  "02092460407": {
+    "codice_2025": "28.92",
+    "desc_2025": "Fabbricazione di macchine da miniera, cava e cantiere",
+    "codice_primario": "28.92.09",
+    "desc_primario": "Fabbricazione di altre macchine da miniera, cava e cantiere (incluse parti e accessori)"
+  },
+  "03499571200": {
+    "codice_2025": "22.22",
+    "desc_2025": "Fabbricazione di imballaggi in materie plastiche",
+    "codice_primario": "22.22",
+    "desc_primario": "Fabbricazione di imballaggi in materie plastiche"
+  },
+  "01665420400": {
+    "codice_2025": "46.89",
+    "desc_2025": "Commercio all'ingrosso specializzato di altri prodotti n.c.a.",
+    "codice_primario": "46.7",
+    "desc_primario": "COMMERCIO ALL'INGROSSO SPECIALIZZATO DI ALTRI PRODOTTI"
+  },
+  "01571620382": {
+    "codice_2025": "10.61.2",
+    "desc_2025": "Lavorazione del riso",
+    "codice_primario": "10.61.3",
+    "desc_primario": "Lavorazione del riso"
+  },
+  "03759860368": {
+    "codice_2025": "28.99.2",
+    "desc_2025": "Fabbricazione di robot industriali con compiti multipli per scopi speciali",
+    "codice_primario": "28.99.2",
+    "desc_primario": "Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)"
+  },
+  "03139621209": {
+    "codice_2025": "28.99.2",
+    "desc_2025": "Fabbricazione di robot industriali con compiti multipli per scopi speciali",
+    "codice_primario": "28.99.2",
+    "desc_primario": "Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)"
+  },
+  "03718840360": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "03728451208": {
+    "codice_2025": "25.11",
+    "desc_2025": "Fabbricazione di strutture metalliche e di parti di strutture metalliche",
+    "codice_primario": "25.11",
+    "desc_primario": "Fabbricazione di strutture metalliche e di parti di strutture"
+  },
+  "03129860379": {
+    "codice_2025": "27.11",
+    "desc_2025": "Fabbricazione di motori, generatori e trasformatori elettrici",
+    "codice_primario": "27.11",
+    "desc_primario": "Fabbricazione di motori, generatori e trasformatori elettrici"
+  },
+  "01291670360": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "01803960366": {
+    "codice_2025": "22.21",
+    "desc_2025": "Fabbricazione di lastre, fogli, tubi e profilati in materie plastiche",
+    "codice_primario": "22.21",
+    "desc_primario": "Fabbricazione di lastre, fogli, tubi e profilati in materie plastiche"
+  },
+  "02049101203": {
+    "codice_2025": "27.90.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature elettriche n.c.a.",
+    "codice_primario": "27.90.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature elettriche n.c.a."
+  },
+  "01304190380": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "05173950287": {
+    "codice_2025": "46.84.1",
+    "desc_2025": "Commercio all'ingrosso di ferramenta",
+    "codice_primario": "46.74.1",
+    "desc_primario": "Commercio all'ingrosso di articoli in ferro e in altri metalli (ferramenta)"
+  },
+  "00707451209": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "DE268455112": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "00814230405": {
+    "codice_2025": "28.3",
+    "desc_2025": "Fabbricazione di macchine per l'agricoltura e la silvicoltura",
+    "codice_primario": "28.3",
+    "desc_primario": "FABBRICAZIONE DI MACCHINE PER L'AGRICOLTURA E LA SILVICOLTURA"
+  },
+  "02875470367": {
+    "codice_2025": "46.64.6",
+    "desc_2025": "Commercio all'ingrosso di macchinari e attrezzature per la pulizia",
+    "codice_primario": "46.69.99",
+    "desc_primario": "Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+  },
+  "01703940351": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "02805090640": {
+    "codice_2025": "47.52.4",
+    "desc_2025": "Commercio al dettaglio di attrezzature per il giardinaggio e la paesaggistica",
+    "codice_primario": "47.52.4",
+    "desc_primario": "Commercio al dettaglio di macchine, attrezzature e prodotti per l'agricoltura; macchine e attrezzature per il giardinaggio"
+  },
+  "03820731200": {
+    "codice_2025": "27.90.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature elettriche n.c.a.",
+    "codice_primario": "27.90.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature elettriche n.c.a."
+  },
+  "02072310390": {
+    "codice_2025": "None",
+    "desc_2025": "",
+    "codice_primario": "28.29.1",
+    "desc_primario": ""
+  },
+  "03372670368": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "02806551202": {
+    "codice_2025": "46.62",
+    "desc_2025": "Commercio all'ingrosso di macchine utensili",
+    "codice_primario": "46.62",
+    "desc_primario": "Commercio all'ingrosso di macchine utensili"
+  },
+  "00426440343": {
+    "codice_2025": "46.84.2",
+    "desc_2025": "Commercio all'ingrosso di apparecchi e accessori per impianti idraulici e di riscaldamento",
+    "codice_primario": "46.74.2",
+    "desc_primario": "Commercio all'ingrosso di apparecchi e accessori per impianti idraulici, di riscaldamento e di condizionamento"
+  },
+  "01924180340": {
+    "codice_2025": "28.29.9",
+    "desc_2025": "Fabbricazione di altre macchine varie di impiego generale",
+    "codice_primario": "28.29.9",
+    "desc_primario": "Fabbricazione di macchine di impiego generale ed altro materiale meccanico n.c.a."
+  },
+  "00575261201": {
+    "codice_2025": "28.15",
+    "desc_2025": "Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",
+    "codice_primario": "28.15.1",
+    "desc_primario": "Fabbricazione di organi di trasmissione (esclusi quelli idraulici e quelli per autoveicoli, aeromobili e motocicli)"
+  },
+  "03693861209": {
+    "codice_2025": "28.42",
+    "desc_2025": "Fabbricazione di altre macchine utensili",
+    "codice_primario": "28.49.09",
+    "desc_primario": "Fabbricazione di altre macchine utensili (incluse parti e accessori) n.c.a."
+  },
+  "03861690406": {
+    "codice_2025": "43.24.09",
+    "desc_2025": "Altri lavori di installazione edili n.c.a.",
+    "codice_primario": "43.29.09",
+    "desc_primario": "Altri lavori di costruzione e installazione n.c.a."
+  },
+  "00373660315": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "01009390392": {
+    "codice_2025": "46.64.2",
+    "desc_2025": "Commercio all'ingrosso di materiale elettrico per impianti industriali",
+    "codice_primario": "46.69.2",
+    "desc_primario": "Commercio all'ingrosso di materiale elettrico per impianti di uso industriale"
+  },
+  "03734681202": {
+    "codice_2025": "33.20.03",
+    "desc_2025": "Installazione di strumenti e apparecchi di misurazione e controllo",
+    "codice_primario": "33.20.03",
+    "desc_primario": "Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)"
+  },
+  "01717301202": {
+    "codice_2025": "27.12",
+    "desc_2025": "Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità",
+    "codice_primario": "27.12",
+    "desc_primario": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità"
+  },
+  "00543970362": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "01871960363": {
+    "codice_2025": "28.29.99",
+    "desc_2025": "Fabbricazione di altre macchine varie di impiego generale n.c.a.",
+    "codice_primario": "28.29.99",
+    "desc_primario": "Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a."
+  },
+  "03482650367": {
+    "codice_2025": "13.96",
+    "desc_2025": "Fabbricazione di altri tessuti per uso tecnico e industriale",
+    "codice_primario": "13.96.1",
+    "desc_primario": "Fabbricazione di nastri, etichette e passamanerie di fibre tessili"
+  },
+  "04162551206": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "03942300363": {
+    "codice_2025": "27.12",
+    "desc_2025": "Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità",
+    "codice_primario": "27.12",
+    "desc_primario": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità"
+  },
+  "02389780699": {
+    "codice_2025": "28.29.99",
+    "desc_2025": "Fabbricazione di altre macchine varie di impiego generale n.c.a.",
+    "codice_primario": "28.29.99",
+    "desc_primario": "Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a."
+  },
+  "SM 03457": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "00500601208": {
+    "codice_2025": "10.61.11",
+    "desc_2025": "Lavorazione di frumento",
+    "codice_primario": "10.61.1",
+    "desc_primario": "Molitura del frumento"
+  },
+  "PL8971839531": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "03809940368": {
+    "codice_2025": "33.20.09",
+    "desc_2025": "Installazione di altre macchine e apparecchiature industriali",
+    "codice_primario": "33.20.09",
+    "desc_primario": "Installazione di altre macchine ed apparecchiature industriali"
+  },
+  "03563141203": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "03984200364": {
+    "codice_2025": "27.12",
+    "desc_2025": "Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità",
+    "codice_primario": "27.12",
+    "desc_primario": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità"
+  },
+  "02165080397": {
+    "codice_2025": "28.99.2",
+    "desc_2025": "Fabbricazione di robot industriali con compiti multipli per scopi speciali",
+    "codice_primario": "28.99.2",
+    "desc_primario": "Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)"
+  },
+  "03949121200": {
+    "codice_2025": "28.96",
+    "desc_2025": "Fabbricazione di macchine per l'industria delle materie plastiche e della gomma",
+    "codice_primario": "28.96",
+    "desc_primario": "Fabbricazione di macchine per l'industria delle materie plastiche e della gomma (incluse parti e accessori)"
+  },
+  "00613700350": {
+    "codice_2025": "28.29.99",
+    "desc_2025": "Fabbricazione di altre macchine varie di impiego generale n.c.a.",
+    "codice_primario": "28.29.99",
+    "desc_primario": "Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a."
+  },
+  "03919611206": {
+    "codice_2025": "28.29.4",
+    "desc_2025": "Fabbricazione di macchine per la pulizia per uso non domestico",
+    "codice_primario": "28.29.92",
+    "desc_primario": "Fabbricazione di macchine per la pulizia (incluse le lavastoviglie) per uso non domestico"
+  },
+  "01260490998": {
+    "codice_2025": "71.1",
+    "desc_2025": "Attività di architettura, di ingegneria e altre consulenze tecniche connesse",
+    "codice_primario": "71.1",
+    "desc_primario": "ATTIVITÀ DEGLI STUDI DI ARCHITETTURA, INGEGNERIA ED ALTRI STUDI TECNICI"
+  },
+  "01554711208": {
+    "codice_2025": "81.21",
+    "desc_2025": "Attività di pulizia generale di edifici",
+    "codice_primario": "81.21",
+    "desc_primario": "Pulizia generale (non specializzata) di edifici"
+  },
+  "01049590399": {
+    "codice_2025": "25",
+    "desc_2025": "Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",
+    "codice_primario": "25",
+    "desc_primario": "FABBRICAZIONE DI PRODOTTI IN METALLO (ESCLUSI MACCHINARI E ATTREZZATURE)"
+  },
+  "09104390969": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "01967500354": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "01671330346": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "01172010330": {
+    "codice_2025": "28.4",
+    "desc_2025": "Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili",
+    "codice_primario": "28.4",
+    "desc_primario": "FABBRICAZIONE DI MACCHINE PER LA FORMATURA DEI METALLI E DI ALTRE MACCHINE UTENSILI"
+  },
+  "01985760345": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "00762710341": {
+    "codice_2025": "28.3",
+    "desc_2025": "Fabbricazione di macchine per l'agricoltura e la silvicoltura",
+    "codice_primario": "28.3",
+    "desc_primario": "FABBRICAZIONE DI MACCHINE PER L'AGRICOLTURA E LA SILVICOLTURA"
+  },
+  "02064830389": {
+    "codice_2025": "28.99.2",
+    "desc_2025": "Fabbricazione di robot industriali con compiti multipli per scopi speciali",
+    "codice_primario": "28.99.2",
+    "desc_primario": "Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)"
+  },
+  "02455260345": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "03301060368": {
+    "codice_2025": "28.96",
+    "desc_2025": "Fabbricazione di macchine per l'industria delle materie plastiche e della gomma",
+    "codice_primario": "28.96",
+    "desc_primario": "Fabbricazione di macchine per l'industria delle materie plastiche e della gomma (incluse parti e accessori)"
+  },
+  "DE815468968": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "02424150361": {
+    "codice_2025": "28.99.2",
+    "desc_2025": "Fabbricazione di robot industriali con compiti multipli per scopi speciali",
+    "codice_primario": "28.99.2",
+    "desc_primario": "Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)"
+  },
+  "01175340197": {
+    "codice_2025": "28.99.2",
+    "desc_2025": "Fabbricazione di robot industriali con compiti multipli per scopi speciali",
+    "codice_primario": "28.99.2",
+    "desc_primario": "Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)"
+  },
+  "02308270483": {
+    "codice_2025": "01.63.1",
+    "desc_2025": "Attività successive alla raccolta",
+    "codice_primario": "01.63",
+    "desc_primario": "Attività successive alla raccolta"
+  },
+  "03343510362": {
+    "codice_2025": "28.2",
+    "desc_2025": "Fabbricazione di altre macchine di impiego generale",
+    "codice_primario": "28.2",
+    "desc_primario": "FABBRICAZIONE DI ALTRE MACCHINE DI IMPIEGO GENERALE"
+  },
+  "03721611204": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "00748340254": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "03417630369": {
+    "codice_2025": "28.29.9",
+    "desc_2025": "Fabbricazione di altre macchine varie di impiego generale",
+    "codice_primario": "28.29.9",
+    "desc_primario": "Fabbricazione di macchine di impiego generale ed altro materiale meccanico n.c.a."
+  },
+  "02634300350": {
+    "codice_2025": "82.99.99",
+    "desc_2025": "Tutti gli altri servizi vari di supporto alle imprese n.c.a.",
+    "codice_primario": "82.99.99",
+    "desc_primario": "Altri servizi di sostegno alle imprese n.c.a."
+  },
+  "01896181201": {
+    "codice_2025": "27.33",
+    "desc_2025": "Fabbricazione di attrezzature per cablaggio",
+    "codice_primario": "27.33",
+    "desc_primario": "Fabbricazione di attrezzature per cablaggio"
+  },
+  "03711871206": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "01529590331": {
+    "codice_2025": "28.41",
+    "desc_2025": "Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili per la lavorazione dei metalli",
+    "codice_primario": "28.41",
+    "desc_primario": "Fabbricazione di macchine utensili per la formatura dei metalli"
+  },
+  "00577200348": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "01829260338": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "03884670401": {
+    "codice_2025": "25.11",
+    "desc_2025": "Fabbricazione di strutture metalliche e di parti di strutture metalliche",
+    "codice_primario": "25.11",
+    "desc_primario": "Fabbricazione di strutture metalliche e di parti di strutture"
+  },
+  "02759031202": {
+    "codice_2025": "10.83.02",
+    "desc_2025": "Lavorazione di caffè",
+    "codice_primario": "10.83.01",
+    "desc_primario": "Lavorazione del caffè"
+  },
+  "04053290369": {
+    "codice_2025": "33.20.02",
+    "desc_2025": "Installazione di apparecchiature per le comunicazioni e di apparecchiature radiotelevisive",
+    "codice_primario": "33.20.02",
+    "desc_primario": "Installazione di apparecchi elettrici ed elettronici per telecomunicazioni, di apparecchi trasmittenti radiotelevisivi, di impianti di apparecchiature elettriche ed elettroniche (esclusa l'installazione all'interno degli edifici)"
+  },
+  "03989651207": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "01080680331": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "00617531207": {
+    "codice_2025": "25.51",
+    "desc_2025": "Rivestimento dei metalli",
+    "codice_primario": "25.61",
+    "desc_primario": "Trattamento e rivestimento dei metalli"
+  },
+  "04058140361": {
+    "codice_2025": "26.11",
+    "desc_2025": "Fabbricazione di componenti elettronici",
+    "codice_primario": "26.11.09",
+    "desc_primario": "Fabbricazione di altri componenti elettronici"
+  },
+  "03245930171": {
+    "codice_2025": "46.64.99",
+    "desc_2025": "Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.",
+    "codice_primario": "46.69.99",
+    "desc_primario": "Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+  },
+  "01281100360": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "03707371203": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "03364471205": {
+    "codice_2025": "28.29.2",
+    "desc_2025": "Fabbricazione di impianti di distillazione o rettificazione per raffinerie di petrolio e industrie chimiche",
+    "codice_primario": "28.29.2",
+    "desc_primario": "Fabbricazione di macchine e apparecchi per le industrie chimiche, petrolchimiche e petrolifere (incluse parti e accessori)"
+  },
+  "00687071209": {
+    "codice_2025": "25.94",
+    "desc_2025": "Fabbricazione di articoli di bulloneria",
+    "codice_primario": "25.94",
+    "desc_primario": "Fabbricazione di articoli di bulloneria"
+  },
+  "00719290389": {
+    "codice_2025": "28.22.09",
+    "desc_2025": "Fabbricazione di altri apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.22.09",
+    "desc_primario": "Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione"
+  },
+  "00678161209": {
+    "codice_2025": "25.99.9",
+    "desc_2025": "Fabbricazione di altri prodotti vari in metallo n.c.a.",
+    "codice_primario": "25.99.99",
+    "desc_primario": "Fabbricazione di altri articoli metallici e minuteria metallica n.c.a."
+  },
+  "03992301204": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "01433170196": {
+    "codice_2025": "26.2",
+    "desc_2025": "Fabbricazione di computer e unità periferiche",
+    "codice_primario": "26.2",
+    "desc_primario": "FABBRICAZIONE DI COMPUTER E UNITÀ PERIFERICHE"
+  },
+  "01669261206": {
+    "codice_2025": "43.24.09",
+    "desc_2025": "Altri lavori di installazione edili n.c.a.",
+    "codice_primario": "43.29.09",
+    "desc_primario": "Altri lavori di costruzione e installazione n.c.a."
+  },
+  "02273921201": {
+    "codice_2025": "46.86.9",
+    "desc_2025": "Commercio all'ingrosso di altri prodotti intermedi n.c.a.",
+    "codice_primario": "46.76.9",
+    "desc_primario": "Commercio all'ingrosso di altri prodotti intermedi n.c.a."
+  },
+  "01136730395": {
+    "codice_2025": "25.4",
+    "desc_2025": "Fucinatura e formatura dei metalli e metallurgia delle polveri",
+    "codice_primario": "25.5",
+    "desc_primario": "FUCINATURA, IMBUTITURA, STAMPAGGIO E PROFILATURA DEI METALLI; METALLURGIA DELLE POLVERI"
+  },
+  "01285930333": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "02886260369": {
+    "codice_2025": "28.2",
+    "desc_2025": "Fabbricazione di altre macchine di impiego generale",
+    "codice_primario": "28.2",
+    "desc_primario": "FABBRICAZIONE DI ALTRE MACCHINE DI IMPIEGO GENERALE"
+  },
+  "DE275922365": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "05048340482": {
+    "codice_2025": "26.3",
+    "desc_2025": "Fabbricazione di apparecchiature per le comunicazioni",
+    "codice_primario": "26.3",
+    "desc_primario": "FABBRICAZIONE DI APPARECCHIATURE PER LE TELECOMUNICAZIONI"
+  },
+  "00761010248": {
+    "codice_2025": "28.15",
+    "desc_2025": "Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",
+    "codice_primario": "28.15.1",
+    "desc_primario": "Fabbricazione di organi di trasmissione (esclusi quelli idraulici e quelli per autoveicoli, aeromobili e motocicli)"
+  },
+  "04001070368": {
+    "codice_2025": "None",
+    "desc_2025": "",
+    "codice_primario": "28.99.99",
+    "desc_primario": ""
+  },
+  "00813190527": {
+    "codice_2025": "28.29.2",
+    "desc_2025": "Fabbricazione di impianti di distillazione o rettificazione per raffinerie di petrolio e industrie chimiche",
+    "codice_primario": "28.29.2",
+    "desc_primario": "Fabbricazione di macchine e apparecchi per le industrie chimiche, petrolchimiche e petrolifere (incluse parti e accessori)"
+  },
+  "03593570363": {
+    "codice_2025": "10.84",
+    "desc_2025": "Produzione di condimenti e spezie",
+    "codice_primario": "10.84",
+    "desc_primario": "Produzione di condimenti e spezie"
+  },
+  "BE0819937337": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "02309240360": {
+    "codice_2025": "46.47.3",
+    "desc_2025": "Commercio all'ingrosso di articoli per l'illuminazione per la casa, l'ufficio e i negozi",
+    "codice_primario": "46.47.3",
+    "desc_primario": "Commercio all'ingrosso di articoli per l'illuminazione; materiale elettrico vario per uso domestico"
+  },
+  "02237380361": {
+    "codice_2025": "26.11",
+    "desc_2025": "Fabbricazione di componenti elettronici",
+    "codice_primario": "26.11.09",
+    "desc_primario": "Fabbricazione di altri componenti elettronici"
+  },
+  "02087600348": {
+    "codice_2025": "25.5",
+    "desc_2025": "Trattamento e rivestimento dei metalli; lavori di meccanica generale",
+    "codice_primario": "25.61",
+    "desc_primario": "Trattamento e rivestimento dei metalli"
+  },
+  "02722620354": {
+    "codice_2025": "28.29.1",
+    "desc_2025": "Fabbricazione di bilance e distributori automatici",
+    "codice_primario": "28.29.1",
+    "desc_primario": "Fabbricazione di bilance e di macchine automatiche per la vendita e la distribuzione (incluse parti staccate e accessori)"
+  },
+  "01426630388": {
+    "codice_2025": "28.22.09",
+    "desc_2025": "Fabbricazione di altri apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.22.09",
+    "desc_primario": "Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione"
+  },
+  "03687440366": {
+    "codice_2025": "33.20.09",
+    "desc_2025": "Installazione di altre macchine e apparecchiature industriali",
+    "codice_primario": "33.20.09",
+    "desc_primario": "Installazione di altre macchine ed apparecchiature industriali"
+  },
+  "07703940960": {
+    "codice_2025": "None",
+    "desc_2025": "",
+    "codice_primario": "27.9",
+    "desc_primario": ""
+  },
+  "02140690385": {
+    "codice_2025": "None",
+    "desc_2025": "",
+    "codice_primario": "28.96",
+    "desc_primario": ""
+  },
+  "02950230355": {
+    "codice_2025": "28.29.99",
+    "desc_2025": "Fabbricazione di altre macchine varie di impiego generale n.c.a.",
+    "codice_primario": "28.29.99",
+    "desc_primario": "Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a."
+  },
+  "04118151200": {
+    "codice_2025": "28.94.3",
+    "desc_2025": "Fabbricazione di macchine per lavanderie e stirerie",
+    "codice_primario": "28.94.3",
+    "desc_primario": "Fabbricazione di apparecchiature e di macchine per lavanderie e stirerie (incluse parti e accessori)"
+  },
+  "04027000365": {
+    "codice_2025": "62.1",
+    "desc_2025": "Attività di programmazione informatica",
+    "codice_primario": "62.01",
+    "desc_primario": "Produzione di software non connesso all'edizione"
+  },
+  "CZ25247875": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "00522711209": {
+    "codice_2025": "25.63.2",
+    "desc_2025": "Fabbricazione di stampi, portastampi, sagome, forme per macchine",
+    "codice_primario": "25.73.2",
+    "desc_primario": "Fabbricazione di stampi, portastampi, sagome, forme per macchine"
+  },
+  "00540811205": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "03781840362": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "04101520361": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "02852160122": {
+    "codice_2025": "46.64.2",
+    "desc_2025": "Commercio all'ingrosso di materiale elettrico per impianti industriali",
+    "codice_primario": "46.69.2",
+    "desc_primario": "Commercio all'ingrosso di materiale elettrico per impianti di uso industriale"
+  },
+  "01644971200": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "03249750401": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "03300121203": {
+    "codice_2025": "28.22.09",
+    "desc_2025": "Fabbricazione di altri apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.22.09",
+    "desc_primario": "Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione"
+  },
+  "04110230366": {
+    "codice_2025": "33.20.03",
+    "desc_2025": "Installazione di strumenti e apparecchi di misurazione e controllo",
+    "codice_primario": "33.20.03",
+    "desc_primario": "Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)"
+  },
+  "04041181209": {
+    "codice_2025": "28.99.1",
+    "desc_2025": "Fabbricazione di macchine per la stampa e la legatoria",
+    "codice_primario": "28.99.1",
+    "desc_primario": "Fabbricazione di macchine per la stampa e la legatoria (incluse parti e accessori)"
+  },
+  "01225540085": {
+    "codice_2025": "95.31.1",
+    "desc_2025": "Riparazione e manutenzione meccanica, elettrica ed elettronica di autoveicoli",
+    "codice_primario": "45.20.1",
+    "desc_primario": "Riparazioni meccaniche di autoveicoli"
+  },
+  "03626760361": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "04164281208": {
+    "codice_2025": "23.91",
+    "desc_2025": "Fabbricazione di prodotti abrasivi",
+    "codice_primario": "23.91",
+    "desc_primario": "Produzione di prodotti abrasivi"
+  },
+  "04164450407": {
+    "codice_2025": "27.11",
+    "desc_2025": "Fabbricazione di motori, generatori e trasformatori elettrici",
+    "codice_primario": "27.11",
+    "desc_primario": "Fabbricazione di motori, generatori e trasformatori elettrici"
+  },
+  "04905930485": {
+    "codice_2025": "47.52.1",
+    "desc_2025": "Commercio al dettaglio di ferramenta, vernici, vetro e materiale elettrico e termoidraulico",
+    "codice_primario": "47.52.1",
+    "desc_primario": "Commercio al dettaglio di ferramenta, vernici, vetro piano e materiale elettrico e termoidraulico"
+  },
+  "03623871203": {
+    "codice_2025": "28.29.99",
+    "desc_2025": "Fabbricazione di altre macchine varie di impiego generale n.c.a.",
+    "codice_primario": "28.29.99",
+    "desc_primario": "Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a."
+  },
+  "03367341207": {
+    "codice_2025": "46.38",
+    "desc_2025": "Commercio all'ingrosso di altri prodotti alimentari",
+    "codice_primario": "46.38.9",
+    "desc_primario": "Commercio all'ingrosso di altri prodotti alimentari"
+  },
+  "03735131207": {
+    "codice_2025": "47.81.1",
+    "desc_2025": "Commercio al dettaglio di automobili e autoveicoli leggeri",
+    "codice_primario": "45.11.01",
+    "desc_primario": "Commercio all'ingrosso e al dettaglio di autovetture e di autoveicoli leggeri"
+  },
+  "04191641200": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "03461581203": {
+    "codice_2025": "33.12.54",
+    "desc_2025": "Riparazione e manutenzione di macchine per impacchettare e imballare",
+    "codice_primario": "33.12.54",
+    "desc_primario": "Riparazione e manutenzione di macchine per la dosatura, la confezione e l'imballaggio"
+  },
+  "00465420354": {
+    "codice_2025": "27.90.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature elettriche n.c.a.",
+    "codice_primario": "27.90.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature elettriche n.c.a."
+  },
+  "02288981208": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "02147390385": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "01667810558": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "01602690784": {
+    "codice_2025": "38.21.12",
+    "desc_2025": "Smantellamento di altre carcasse",
+    "codice_primario": "38.31.1",
+    "desc_primario": "Demolizione di carcasse"
+  },
+  "02098950385": {
+    "codice_2025": "33.12.59",
+    "desc_2025": "Riparazione e manutenzione di altre macchine di impiego generale n.c.a.",
+    "codice_primario": "33.12.59",
+    "desc_primario": "Riparazione e manutenzione di altre macchine di impiego generale n.c.a."
+  },
+  "03507900367": {
+    "codice_2025": "28.29.99",
+    "desc_2025": "Fabbricazione di altre macchine varie di impiego generale n.c.a.",
+    "codice_primario": "28.29.99",
+    "desc_primario": "Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a."
+  },
+  "01357650355": {
+    "codice_2025": "28.21.1",
+    "desc_2025": "Fabbricazione di forni",
+    "codice_primario": "28.21.1",
+    "desc_primario": "Fabbricazione di forni, fornaci e bruciatori"
+  },
+  "01778640357": {
+    "codice_2025": "33.20.03",
+    "desc_2025": "Installazione di strumenti e apparecchi di misurazione e controllo",
+    "codice_primario": "33.20.03",
+    "desc_primario": "Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)"
+  },
+  "00327580270": {
+    "codice_2025": "25.99.9",
+    "desc_2025": "Fabbricazione di altri prodotti vari in metallo n.c.a.",
+    "codice_primario": "25.99.99",
+    "desc_primario": "Fabbricazione di altri articoli metallici e minuteria metallica n.c.a."
+  },
+  "04212281200": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "03614171209": {
+    "codice_2025": "41",
+    "desc_2025": "Costruzione di edifici residenziali e non residenziali",
+    "codice_primario": "41.2",
+    "desc_primario": "COSTRUZIONE DI EDIFICI RESIDENZIALI E NON RESIDENZIALI"
+  },
+  "SK2122680769": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "02521040358": {
+    "codice_2025": "46.64.99",
+    "desc_2025": "Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.",
+    "codice_primario": "46.69.99",
+    "desc_primario": "Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+  },
+  "03591931203": {
+    "codice_2025": "01.48.99",
+    "desc_2025": "Allevamento di altri animali vari n.c.a.",
+    "codice_primario": "01.49.9",
+    "desc_primario": "Allevamento di altri animali n.c.a."
+  },
+  "FI32453653": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "00151630357": {
+    "codice_2025": "43.24.01",
+    "desc_2025": "Installazione di ascensori e scale mobili",
+    "codice_primario": "43.29.01",
+    "desc_primario": "Installazione, riparazione e manutenzione di ascensori e scale mobili"
+  },
+  "07148760965": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "04234531202": {
+    "codice_2025": "30.91.2",
+    "desc_2025": "Fabbricazione di parti e accessori per motocicli",
+    "codice_primario": "30.91.2",
+    "desc_primario": "Fabbricazione di accessori e pezzi staccati per motocicli e ciclomotori"
+  },
+  "03227330366": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "03100230378": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "02043591201": {
+    "codice_2025": "43.21",
+    "desc_2025": "Installazione di impianti elettrici",
+    "codice_primario": "43.21.02",
+    "desc_primario": "Installazione di impianti elettronici (inclusa manutenzione e riparazione)"
+  },
+  "05907910482": {
+    "codice_2025": "62.1",
+    "desc_2025": "Attività di programmazione informatica",
+    "codice_primario": "62.01",
+    "desc_primario": "Produzione di software non connesso all'edizione"
+  },
+  "03714971201": {
+    "codice_2025": "27.12",
+    "desc_2025": "Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità",
+    "codice_primario": "27.12",
+    "desc_primario": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità"
+  },
+  "00814320388": {
+    "codice_2025": "22.2",
+    "desc_2025": "Fabbricazione di prodotti in materie plastiche",
+    "codice_primario": "22.2",
+    "desc_primario": "FABBRICAZIONE DI ARTICOLI IN MATERIE PLASTICHE"
+  },
+  "02537640399": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "03484571207": {
+    "codice_2025": "28.29.3",
+    "desc_2025": "Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",
+    "codice_primario": "28.29.3",
+    "desc_primario": "Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+  },
+  "00592181200": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "03379710407": {
+    "codice_2025": "28.99.99",
+    "desc_2025": "Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.",
+    "codice_primario": "28.99.99",
+    "desc_primario": "Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)"
+  },
+  "03926710363": {
+    "codice_2025": "33.12.99",
+    "desc_2025": "Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.",
+    "codice_primario": "33.12.99",
+    "desc_primario": "Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)"
+  },
+  "04089421202": {
+    "codice_2025": "33.12.99",
+    "desc_2025": "Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.",
+    "codice_primario": "33.12.99",
+    "desc_primario": "Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)"
+  },
+  "01890420357": {
+    "codice_2025": "33.20.03",
+    "desc_2025": "Installazione di strumenti e apparecchi di misurazione e controllo",
+    "codice_primario": "33.20.03",
+    "desc_primario": "Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)"
+  },
+  "02535510396": {
+    "codice_2025": "10.73",
+    "desc_2025": "Produzione di prodotti farinacei",
+    "codice_primario": "10.73",
+    "desc_primario": "Produzione di paste alimentari, di cuscus e di prodotti farinacei simili"
+  },
+  "03859681201": {
+    "codice_2025": "62.20.2",
+    "desc_2025": "Attività di gestione di strutture informatiche",
+    "codice_primario": "62.03",
+    "desc_primario": "Gestione di strutture informatizzate"
+  },
+  "02379290345": {
+    "codice_2025": "27.12",
+    "desc_2025": "Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità",
+    "codice_primario": "27.12",
+    "desc_primario": "Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità"
+  },
+  "04247161203": {
+    "codice_2025": "28.96",
+    "desc_2025": "Fabbricazione di macchine per l'industria delle materie plastiche e della gomma",
+    "codice_primario": "28.96",
+    "desc_primario": "Fabbricazione di macchine per l'industria delle materie plastiche e della gomma (incluse parti e accessori)"
+  },
+  "00526811203": {
+    "codice_2025": "46.84.2",
+    "desc_2025": "Commercio all'ingrosso di apparecchi e accessori per impianti idraulici e di riscaldamento",
+    "codice_primario": "46.74.2",
+    "desc_primario": "Commercio all'ingrosso di apparecchi e accessori per impianti idraulici, di riscaldamento e di condizionamento"
+  },
+  "SM 02347": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "04041041205": {
+    "codice_2025": "33.12.99",
+    "desc_2025": "Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.",
+    "codice_primario": "33.12.99",
+    "desc_primario": "Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)"
+  },
+  "04479950240": {
+    "codice_2025": "28.22.09",
+    "desc_2025": "Fabbricazione di altri apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.22.09",
+    "desc_primario": "Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione"
+  },
+  "01234110482": {
+    "codice_2025": "25.12.1",
+    "desc_2025": "Fabbricazione di porte, finestre e loro telai, imposte e cancelli in metallo",
+    "codice_primario": "25.12.1",
+    "desc_primario": "Fabbricazione di porte, finestre e loro telai, imposte e cancelli metallici"
+  },
+  "03763290784": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "00516171204": {
+    "codice_2025": "28.15",
+    "desc_2025": "Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",
+    "codice_primario": "28.15.1",
+    "desc_primario": "Fabbricazione di organi di trasmissione (esclusi quelli idraulici e quelli per autoveicoli, aeromobili e motocicli)"
+  },
+  "00157040361": {
+    "codice_2025": "25.63.2",
+    "desc_2025": "Fabbricazione di stampi, portastampi, sagome, forme per macchine",
+    "codice_primario": "25.73.2",
+    "desc_primario": "Fabbricazione di stampi, portastampi, sagome, forme per macchine"
+  },
+  "01823211204": {
+    "codice_2025": "33.20.09",
+    "desc_2025": "Installazione di altre macchine e apparecchiature industriali",
+    "codice_primario": "33.20.09",
+    "desc_primario": "Installazione di altre macchine ed apparecchiature industriali"
+  },
+  "04289720379": {
+    "codice_2025": "43.24.01",
+    "desc_2025": "Installazione di ascensori e scale mobili",
+    "codice_primario": "43.29.01",
+    "desc_primario": "Installazione, riparazione e manutenzione di ascensori e scale mobili"
+  },
+  "04704500406": {
+    "codice_2025": "46.9",
+    "desc_2025": "Commercio all'ingrosso non specializzato",
+    "codice_primario": "46.9",
+    "desc_primario": "COMMERCIO ALL'INGROSSO NON SPECIALIZZATO"
+  },
+  "00621481209": {
+    "codice_2025": "46.50.2",
+    "desc_2025": "Commercio all'ingrosso di apparecchiature per telecomunicazioni",
+    "codice_primario": "46.52",
+    "desc_primario": "Commercio all'ingrosso di apparecchiature elettroniche per telecomunicazioni e componenti elettronici"
+  },
+  "00497451203": {
+    "codice_2025": "25.53",
+    "desc_2025": "Lavori di meccanica generale dei metalli",
+    "codice_primario": "25.62",
+    "desc_primario": "Lavori di meccanica generale"
+  },
+  "00523841203": {
+    "codice_2025": "27.90.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature elettriche n.c.a.",
+    "codice_primario": "27.90.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature elettriche n.c.a."
+  },
+  "12988630963": {
+    "codice_2025": "85.59.2",
+    "desc_2025": "Corsi di formazione e corsi di aggiornamento professionale",
+    "codice_primario": "85.59.2",
+    "desc_primario": "Corsi di formazione e corsi di aggiornamento professionale"
+  },
+  "01532091202": {
+    "codice_2025": "33.20.02",
+    "desc_2025": "Installazione di apparecchiature per le comunicazioni e di apparecchiature radiotelevisive",
+    "codice_primario": "33.20.02",
+    "desc_primario": "Installazione di apparecchi elettrici ed elettronici per telecomunicazioni, di apparecchi trasmittenti radiotelevisivi, di impianti di apparecchiature elettriche ed elettroniche (esclusa l'installazione all'interno degli edifici)"
+  },
+  "BG118582178": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "00298090101": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "02379641208": {
+    "codice_2025": "17.23.09",
+    "desc_2025": "Fabbricazione di altri prodotti cartotecnici",
+    "codice_primario": "17.23.09",
+    "desc_primario": "Fabbricazione di altri prodotti cartotecnici"
+  },
+  "02748360399": {
+    "codice_2025": "27.40.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature per l'illuminazione",
+    "codice_primario": "27.40.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature per illuminazione"
+  },
+  "02766650598": {
+    "codice_2025": "43.21.01",
+    "desc_2025": "Installazione di impianti di illuminazione e fotovoltaici in edifici",
+    "codice_primario": "43.21.01",
+    "desc_primario": "Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)"
+  },
+  "RO32233748": {
+    "codice_2025": "",
+    "desc_2025": "",
+    "codice_primario": "",
+    "desc_primario": ""
+  },
+  "04125261208": {
+    "codice_2025": "22.26.99",
+    "desc_2025": "Fabbricazione di altri prodotti vari in materie plastiche n.c.a.",
+    "codice_primario": "22.29.09",
+    "desc_primario": "Fabbricazione di altri articoli in materie plastiche n.c.a."
+  },
+  "02559130204": {
+    "codice_2025": "24.1",
+    "desc_2025": "Fabbricazione di ferro, acciaio e ferroleghe",
+    "codice_primario": "24.1",
+    "desc_primario": "SIDERURGIA"
+  },
+  "01582080352": {
+    "codice_2025": "27.90.01",
+    "desc_2025": "Fabbricazione di apparecchiature elettriche per saldatura e brasatura",
+    "codice_primario": "27.90.01",
+    "desc_primario": "Fabbricazione di apparecchiature elettriche per saldature e brasature"
+  },
+  "04070400363": {
+    "codice_2025": "33.20.09",
+    "desc_2025": "Installazione di altre macchine e apparecchiature industriali",
+    "codice_primario": "33.20.09",
+    "desc_primario": "Installazione di altre macchine ed apparecchiature industriali"
+  },
+  "02029401201": {
+    "codice_2025": "33.12.99",
+    "desc_2025": "Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.",
+    "codice_primario": "33.12.99",
+    "desc_primario": "Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)"
+  },
+  "00921570529": {
+    "codice_2025": "27.90.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature elettriche n.c.a.",
+    "codice_primario": "27.90.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature elettriche n.c.a."
+  },
+  "04069611202": {
+    "codice_2025": "74.99.99",
+    "desc_2025": "Tutte le altre attività varie professionali, scientifiche e tecniche n.c.a.",
+    "codice_primario": "74.90.93",
+    "desc_primario": "Altre attività di consulenza tecnica n.c.a."
+  },
+  "04771230481": {
+    "codice_2025": "27.90.09",
+    "desc_2025": "Fabbricazione di altre apparecchiature elettriche n.c.a.",
+    "codice_primario": "27.90.09",
+    "desc_primario": "Fabbricazione di altre apparecchiature elettriche n.c.a."
+  },
+  "01856450166": {
+    "codice_2025": "46.64.2",
+    "desc_2025": "Commercio all'ingrosso di materiale elettrico per impianti industriali",
+    "codice_primario": "46.69.2",
+    "desc_primario": "Commercio all'ingrosso di materiale elettrico per impianti di uso industriale"
+  },
+  "03850741202": {
+    "codice_2025": "28.41",
+    "desc_2025": "Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili per la lavorazione dei metalli",
+    "codice_primario": "28.41",
+    "desc_primario": "Fabbricazione di macchine utensili per la formatura dei metalli"
+  },
+  "04249560402": {
+    "codice_2025": "26.2",
+    "desc_2025": "Fabbricazione di computer e unità periferiche",
+    "codice_primario": "26.2",
+    "desc_primario": "FABBRICAZIONE DI COMPUTER E UNITÀ PERIFERICHE"
+  },
+  "04334981208": {
+    "codice_2025": "27.33",
+    "desc_2025": "Fabbricazione di attrezzature per cablaggio",
+    "codice_primario": "27.33",
+    "desc_primario": "Fabbricazione di attrezzature per cablaggio"
+  },
+  "00539931204": {
+    "codice_2025": "71.1",
+    "desc_2025": "Attività di architettura, di ingegneria e altre consulenze tecniche connesse",
+    "codice_primario": "71.1",
+    "desc_primario": "ATTIVITÀ DEGLI STUDI DI ARCHITETTURA, INGEGNERIA ED ALTRI STUDI TECNICI"
+  },
+  "04193340363": {
+    "codice_2025": "26.2",
+    "desc_2025": "Fabbricazione di computer e unità periferiche",
+    "codice_primario": "26.2",
+    "desc_primario": "FABBRICAZIONE DI COMPUTER E UNITÀ PERIFERICHE"
+  },
+  "03604930408": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+  },
+  "01919840338": {
+    "codice_2025": "-",
+    "desc_2025": "",
+    "codice_primario": "-",
+    "desc_primario": ""
+  },
+  "02853750699": {
+    "codice_2025": "28.22.09",
+    "desc_2025": "Fabbricazione di altri apparecchi di sollevamento e movimentazione",
+    "codice_primario": "28.22.09",
+    "desc_primario": "Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione"
+  },
+  "00205200652": {
+    "codice_2025": "28.93",
+    "desc_2025": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",
+    "codice_primario": "28.93",
+    "desc_primario": "Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
   }
 }

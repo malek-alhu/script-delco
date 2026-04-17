@@ -401,3 +401,383 @@ Cliente Ordine ,Ragione Sociale ,Partita iva,Codice ateco,Codice ATECO 2025,Desc
 3069,3D AUTOMAZIONE SRL,01618311201,,62.1,Attività di programmazione informatica,62.01,Produzione di software non connesso all'edizione
 3081,CPS COMPANY SRL,02288321207,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
 3092,DELLA CASA RETI SRL a SO,02819320363,,25.93.1,Fabbricazione di prodotti fabbricati con fili metallici,25.93.1,Fabbricazione di prodotti fabbricati con fili metallici
+3116,CO.ME.T. OFFICINE SPA -,00503271207,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.09,Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione
+3124,LEGORI SRL,00782830426,,46.64.99,Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.,46.69.99,"Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+3131,OPERA  SRL,02432800361,,25.62,Fabbricazione di serrature e cerniere,25.72,Fabbricazione di serrature e cerniere
+3139,EUROTEC SRL,01596581205,,46.64.91,Commercio all'ingrosso di strumenti e apparecchiature di misurazione,46.69,Commercio all'ingrosso di altri macchinari e attrezzature
+3151,FAE  ENGINEERING  SRL,02341671200,,26.2,Fabbricazione di computer e unità periferiche,26.2,FABBRICAZIONE DI COMPUTER E UNITÀ PERIFERICHE
+3156,COBO SPA,01931530982,,29.31,Fabbricazione di apparecchiature elettriche ed elettroniche per autoveicoli,29.31,Fabbricazione di apparecchiature elettriche ed elettroniche per autoveicoli e loro motori
+3205,MITECO SRL,02852350368,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+3216,RETTIFICHE IOZZO PAOLINO,02332191200,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+3235,GEA SRL,01465340394,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.09,Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione
+3253,TECNOIDEAL  SRL,00818130361,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+3265,LAMIPRESS SRL,01587651207,,25.4,Fucinatura e formatura dei metalli e metallurgia delle polveri,25.5,"FUCINATURA, IMBUTITURA, STAMPAGGIO E PROFILATURA DEI METALLI; METALLURGIA DELLE POLVERI"
+3269,AUREL SPA,00236220406,,26.11,Fabbricazione di componenti elettronici,26.11,Fabbricazione di componenti elettronici
+3285,SARMAX SRL,02855610362,,28.42,Fabbricazione di altre macchine utensili,28.49.09,Fabbricazione di altre macchine utensili (incluse parti e accessori) n.c.a.
+3312,A.T.S. 2000 SRL,02136000342,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+3316,FAG-MELO' SRL,01679001204,,28.29.99,Fabbricazione di altre macchine varie di impiego generale n.c.a.,28.29.99,Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a.
+3324,MEC PROGRAM SNC,02063750364,,28.22,Fabbricazione di apparecchi di sollevamento e movimentazione,28.22,Fabbricazione di macchine e apparecchi di sollevamento e movimentazione
+3325,CYKLOP SRL,00886420157,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+3332,C.M.I. SRL,00666031208,,25.62,Fabbricazione di serrature e cerniere,25.72,Fabbricazione di serrature e cerniere
+3337,IMOLA  SERVICE  DI POLI,01945811204,,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)
+3345,PERFECT PACK  SRL,01814880405,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+3357,DUEMME SNC DI QUERZE' MA,01921681209,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+3367,SOFT SYSTEM  SRL,01742070368,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+3399,SCADIF SRL,00144380342,,17.21,"Fabbricazione di carta, cartone ondulato e di imballaggi di carta e cartone",17.21,Fabbricazione di carta e cartone ondulato e di imballaggi di carta e cartone
+3407,NEW G.P.B.  SRL,02750841203,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+3410,SELA CARS SRL,02021820408,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+3431,STEFAL  SRL,00540721206,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+3436,MARGELLI SRL,01642640385,,33.14,Riparazione e manutenzione di apparecchiature elettriche,33.14,Riparazione e manutenzione di apparecchiature elettriche
+3438,AMS  AUTOMAZIONI  SPA,SM03806,,,,,
+3454,PM OIL & STEEL SPA,03520360961,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.02,"Fabbricazione di gru, argani, verricelli a mano e a motore, carrelli trasbordatori, carrelli elevatori e piattaforme girevoli"
+3458,CAMME 4 SRL,00546411208,,27.33,Fabbricazione di attrezzature per cablaggio,27.33.09,Fabbricazione di altre attrezzature per cablaggio
+3495,TM  SRL,02092831201,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+3536,A.G. MECCANICA  SRL,02408811202,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+3554,LA MECCANICA  SNC,00953160355,,28.30.99,Fabbricazione di altre macchine per l'agricoltura e la silvicoltura n.c.a.,28.30.9,"Fabbricazione di altre macchine per l'agricoltura, la silvicoltura e la zootecnia"
+3561,TECNOS SRL,03472620404,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+3563,OSTI SNC DI OSTI ELIO &,01210490387,,28.99.2,Fabbricazione di robot industriali con compiti multipli per scopi speciali,28.99.2,Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)
+3565,AMPLO SRL,02977670369,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.09,Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione
+3566,HYDRAPAC  ITALIA  SRL- U,02423401203,,46.61,"Commercio all'ingrosso di macchinari, attrezzature e forniture agricole",46.61,"Commercio all'ingrosso di macchinari, attrezzature e forniture agricole"
+3568,DI QUATTRO SRL,02679110367,,28.3,Fabbricazione di macchine per l'agricoltura e la silvicoltura,28.3,FABBRICAZIONE DI MACCHINE PER L'AGRICOLTURA E LA SILVICOLTURA
+3595,FROMM ITALIANA SRL,00223630237,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+3610,EUROMARCHE  SRL,00884980442,,46.62,Commercio all'ingrosso di macchine utensili,46.62,Commercio all'ingrosso di macchine utensili
+3641,MOLEX INTERCONNECT GMBH,NL802332146B01,,,,,
+3659,R.BARDI SRL,00231590340,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+3672,E.F.C.  SRL,02986621205,,27.11,"Fabbricazione di motori, generatori e trasformatori elettrici",27.11,"Fabbricazione di motori, generatori e trasformatori elettrici"
+3685,LUNAFILM SPA,03240390405,,22.26.99,Fabbricazione di altri prodotti vari in materie plastiche n.c.a.,22.29.09,Fabbricazione di altri articoli in materie plastiche n.c.a.
+3687,GL55 SAS DI GRILLI G.LUC,03419050368,,33.12,Riparazione e manutenzione di macchinari,33.12,Riparazione e manutenzione di macchinari
+3692,R.G.  AUTOMAZIONI SNC,02867890366,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+3701,INVENTA SRL,01894250362,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+3727,DENKEN ITALIA SRL,04015970405,,28.99.2,Fabbricazione di robot industriali con compiti multipli per scopi speciali,28.99.2,Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)
+3729,CLIVIO  SRL,02374840342,,46.63,"Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l'ingegneria civile",46.63,"Commercio all'ingrosso di macchinari per l'estrazione, l'edilizia e l'ingegneria civile"
+3735,COLLARI SNC,03244801209,,28.30.99,Fabbricazione di altre macchine per l'agricoltura e la silvicoltura n.c.a.,28.30.9,"Fabbricazione di altre macchine per l'agricoltura, la silvicoltura e la zootecnia"
+3736,ERRELLE  SRL,01842021204,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+3755,AWM SRL,03421980362,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.02,"Fabbricazione di gru, argani, verricelli a mano e a motore, carrelli trasbordatori, carrelli elevatori e piattaforme girevoli"
+3760,MECVEL SRL,04313760375,,28.15,"Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",28.15.1,"Fabbricazione di organi di trasmissione (esclusi quelli idraulici e quelli per autoveicoli, aeromobili e motocicli)"
+3762,PROMAU SRL,02082500402,,28.41,Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili per la lavorazione dei metalli,28.41,Fabbricazione di macchine utensili per la formatura dei metalli
+3763,ESOTECH,03394020402,,43.21,Installazione di impianti elettrici,43.21.02,Installazione di impianti elettronici (inclusa manutenzione e riparazione)
+3776,TRASCAR SRL,02864900366,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.09,Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione
+3777,CIERRE  SRL,01568710386,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+3781,INDUSTRIAL SOLUTIONS RES,02400970360,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+3785,SIET SERVICE SRL,01131250381,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+3787,GISAL  SRL,03205631207,,33.12.1,"Riparazione e manutenzione di motori, turbine, pompe, compressori e altri elementi simili",33.12.1,Riparazione e manutenzione di macchine di impiego generale
+3792,REGGIANA MACCHINE UTENSI,00220510358,,28.4,Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili,28.4,FABBRICAZIONE DI MACCHINE PER LA FORMATURA DEI METALLI E DI ALTRE MACCHINE UTENSILI
+3798,SIMA  SRL,03272451208,,28.96,Fabbricazione di macchine per l'industria delle materie plastiche e della gomma,28.96,Fabbricazione di macchine per l'industria delle materie plastiche e della gomma (incluse parti e accessori)
+3799,CERAMIC INSTRUMENTS  SRL,00710640368,,46.64.99,Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.,46.69.99,"Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+3801,AMADORI SNC,01730900402,,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)
+3802,SACMI  TECH  SPA,02981921204,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+3811,FASTEC SRL,02484010372,,33.13,Riparazione e manutenzione di apparecchiature elettroniche e ottiche,33.13,Riparazione e manutenzione di apparecchiature elettroniche ed ottiche
+3813,CMA  TEC  SRL,03058601208,,28.4,Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili,28.4,FABBRICAZIONE DI MACCHINE PER LA FORMATURA DEI METALLI E DI ALTRE MACCHINE UTENSILI
+3822,ESTENSIONE  SRL,02322650363,,46.64.99,Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.,46.69.99,"Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+3826,RD2 SRL,02713111207,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+3828,SIEM IMPIANTI SOC.COOP.V,04025140403,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+3841,CIMA SPA CON SOCIO UNICO,03536420361,,28.23,"Fabbricazione di macchine e attrezzature per ufficio, esclusi computer e unità periferiche",28.23.09,Fabbricazione di macchine ed altre attrezzature per ufficio (esclusi computer e periferiche)
+3846,IRI  SRL,02079210361,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+3851,AMB FOOD TECH  SRL,03281801203,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+3857,TEKNOX SRL,02130271204,,28.29.49,Fabbricazione di altre macchine per la pulizia per uso non domestico,28.29.92,Fabbricazione di macchine per la pulizia (incluse le lavastoviglie) per uso non domestico
+3878,GIEFFE SISTEMI SRL - UNI,02304720481,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+3886,CABLONETTUNO  SRL,02352751206,,27.33,Fabbricazione di attrezzature per cablaggio,27.33,Fabbricazione di attrezzature per cablaggio
+3887,ZURIGO SERVICE  SNC,02407431200,,33.12.3,Riparazione e manutenzione di apparecchi di sollevamento e movimentazione,33.12.3,Riparazione e manutenzione di macchine e apparecchi di sollevamento e movimentazione (esclusi ascensori)
+3891,CENTRO GRU SRL,00530661206,,33.20.09,Installazione di altre macchine e apparecchiature industriali,33.20.09,Installazione di altre macchine ed apparecchiature industriali
+3896,NUOVA MD DI MELUCCI DAVI,04100060401,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+3914,RS TECNOLOGY  SRL,03355001201,,46.64.99,Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.,46.69.99,"Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+3915,GIEFFE DI FIORI SRL,03591001205,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+3921,BORGHI SPA  - A  SOCIO,03575150366,,28.29.99,Fabbricazione di altre macchine varie di impiego generale n.c.a.,28.29.99,Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a.
+3926,LAG-RAINER SRL,03375481201,,28.41,Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili per la lavorazione dei metalli,28.41,Fabbricazione di macchine utensili per la formatura dei metalli
+3933,TECNO-STAR DUE  SRL,01709680365,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+3939,C.M.S. SRL,01912190384,,None,,28.99.99,
+3940,DENVER SPA,SM04152,,,,,
+3955,RST  SRL,02612830360,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+3961,L'ELETTRICA  SPA,03804730483,,46.47.3,"Commercio all'ingrosso di articoli per l'illuminazione per la casa, l'ufficio e i negozi",46.47.3,Commercio all'ingrosso di articoli per l'illuminazione; materiale elettrico vario per uso domestico
+3977,G.M.C. SRL,03588000368,,28.42,Fabbricazione di altre macchine utensili,28.49.09,Fabbricazione di altre macchine utensili (incluse parti e accessori) n.c.a.
+3982,ITALSTAMPI SPA,01901260354,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+3990,VACCARI & BOSI  SRL,00360820369,,29.32,Fabbricazione di altre parti e accessori per autoveicoli,29.32.09,Fabbricazione di altre parti ed accessori per autoveicoli e loro motori n.c.a.
+4000,SAPEM  SRL,03281620546,,28.2,Fabbricazione di altre macchine di impiego generale,28.2,FABBRICAZIONE DI ALTRE MACCHINE DI IMPIEGO GENERALE
+4020,PRISMA  SPA,00957350960,,28.22.01,"Fabbricazione di ascensori, scale mobili e tappeti mobili",28.22.01,"Fabbricazione di ascensori, montacarichi e scale mobili"
+4021,ILMEC SRL,00810500363,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4024,SMART COMPONENTS  SRL,02897311201,,28.15,"Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",28.15,"Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione (esclusi quelli idraulici)"
+4025,EGICON  SRL,02887181200,,26.12,Fabbricazione di schede elettroniche integrate,26.12,Fabbricazione di schede elettroniche assemblate
+4029,ELECTRIC PRODUCTION SRL,03393421205,,27.11,"Fabbricazione di motori, generatori e trasformatori elettrici",27.11,"Fabbricazione di motori, generatori e trasformatori elettrici"
+4031,M.C.F.  TRADE  SRL,03807870401,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4039,APPEL  SRL   - UNIPERSON,03945010365,,26.70.12,Fabbricazione di strumenti ottici di misurazione e controllo,26.70.12,Fabbricazione di attrezzature ottiche di misurazione e controllo
+4043,PANINI SRL,01292320361,,25.21.2,Fabbricazione di generatori di vapore,25.3,FABBRICAZIONE DI GENERATORI DI VAPORE (ESCLUSI I CONTENITORI IN METALLO PER CALDAIE PER IL RISCALDAMENTO CENTRALE AD ACQUA CALDA)
+4049,FAMAR TEC SRL,02523390397,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4059,CEMASTIR  LAVAMETALLI SR,02607081201,,28.91,Fabbricazione di macchine per la metallurgia,28.91,Fabbricazione di macchine per la metallurgia
+4060,D.K.M.  DI MONTEIRO  KAR,03105731206,,None,,13.91,
+4066,C.M.S.  SPA,00934450362,,28.2,Fabbricazione di altre macchine di impiego generale,28.2,FABBRICAZIONE DI ALTRE MACCHINE DI IMPIEGO GENERALE
+4071,M.T.B.  SNC,00600761209,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4072,MAR PRODUZIONI SRL,04206100408,,46.84.2,Commercio all'ingrosso di apparecchi e accessori per impianti idraulici e di riscaldamento,46.74.2,"Commercio all'ingrosso di apparecchi e accessori per impianti idraulici, di riscaldamento e di condizionamento"
+4077,CECCHINI TOP ASSISTANCE,03161551209,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4079,DIERREGI  SRL,03601330362,,28.42,Fabbricazione di altre macchine utensili,28.49.09,Fabbricazione di altre macchine utensili (incluse parti e accessori) n.c.a.
+4080,LA.CE.CO SRL,01854570361,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4098,MODULA SPA,03197890365,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.09,Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione
+4101,CALZEDONIA SPA,01037050422,,,,,
+4108,MOTOTECNICA SAS,00862731205,,46.64.2,Commercio all'ingrosso di materiale elettrico per impianti industriali,46.69.2,Commercio all'ingrosso di materiale elettrico per impianti di uso industriale
+4109,ACHILLI SRL,02343350407,,28.42,Fabbricazione di altre macchine utensili,28.49.09,Fabbricazione di altre macchine utensili (incluse parti e accessori) n.c.a.
+4111,RDF PROJECT  SRL,02530360391,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4112,FRATELLI BEGA SRL,00313860363,,43.99.01,Noleggio di gru e altre attrezzature edili con operatore,43.99.02,Noleggio di gru ed altre attrezzature con operatore per la costruzione o la demolizione
+4116,BAGIONI   ALFIERO  SNC,03589480403,,28.3,Fabbricazione di macchine per l'agricoltura e la silvicoltura,28.3,FABBRICAZIONE DI MACCHINE PER L'AGRICOLTURA E LA SILVICOLTURA
+4124,SIMAS  SRL,02498261201,,25.11,Fabbricazione di strutture metalliche e di parti di strutture metalliche,25.11,Fabbricazione di strutture metalliche e di parti di strutture
+4129,INDACO PROJECT SRL,02196721209,,62.1,Attività di programmazione informatica,62.01,Produzione di software non connesso all'edizione
+4136,TAMARRI  SRL,04008710370,,46.64.19,Commercio all'ingrosso di altri mezzi di trasporto,46.69.19,Commercio all'ingrosso di altri mezzi ed attrezzature di trasporto
+4137,ATLAS  TRADING CO. SRL,10469360159,,46.44.4,Commercio all'ingrosso di prodotti per la pulizia,46.44.3,"Commercio all'ingrosso di saponi, detersivi e altri prodotti per la pulizia"
+4138,ELCONTROL ENERGY NET SRL,03448841209,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+4141,ADHOC SISTEMI SAS,02629110343,,33.20.09,Installazione di altre macchine e apparecchiature industriali,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4149,TASK  SRL,00213040280,,46.64.99,Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.,46.69.99,"Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+4151,NOVA SRL,01527961203,,28.22.01,"Fabbricazione di ascensori, scale mobili e tappeti mobili",28.22.01,"Fabbricazione di ascensori, montacarichi e scale mobili"
+4157,MM IMPIANTI DI MERLI MIC,03452711207,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4158,DELTOS SRL,01976720381,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4162,GRANDI  SRL,03527361202,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4174,CARPANELLI MOTORI ELETTR,00662271204,,27.11,"Fabbricazione di motori, generatori e trasformatori elettrici",27.11,"Fabbricazione di motori, generatori e trasformatori elettrici"
+4177,PWG  SRL -  SOCIETA' C/,02873661207,,28.12,Fabbricazione di apparecchiature fluidodinamiche,28.12,Fabbricazione di apparecchiature fluidodinamiche
+4181,QUBICAAMF  EUROPE SPA,04320910377,,26.12,Fabbricazione di schede elettroniche integrate,26.12,Fabbricazione di schede elettroniche assemblate
+4185,HORBITEK  SRL,SM23980,,,,,
+4191,TECHCAB SRL,02595740347,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4203,MACROSS AUTOMAZIONE SRL,03594681201,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4209,LO.GI.CA. SRL,03418500363,,33.12.3,Riparazione e manutenzione di apparecchi di sollevamento e movimentazione,28.2,FABBRICAZIONE DI ALTRE MACCHINE DI IMPIEGO GENERALE
+4217,MI&P   SRL,03140011200,,47.81.1,Commercio al dettaglio di automobili e autoveicoli leggeri,45.11.01,Commercio all'ingrosso e al dettaglio di autovetture e di autoveicoli leggeri
+4218,M2G AUTOMAZIONI  SRL,03723320366,,33.20.09,Installazione di altre macchine e apparecchiature industriali,33.20.02,"Installazione di apparecchi elettrici ed elettronici per telecomunicazioni, di apparecchi trasmittenti radiotelevisivi, di impianti di apparecchiature elettriche ed elettroniche (esclusa l'installazione all'interno degli edifici)"
+4222,G.B. SNC DI BALLARIN GIU,03404491205,,27.33,Fabbricazione di attrezzature per cablaggio,27.33.09,Fabbricazione di altre attrezzature per cablaggio
+4223,ARKIMAT SRL,02273951208,,62.1,Attività di programmazione informatica,62.01,Produzione di software non connesso all'edizione
+4224,MARZOCCHI POMPE SPA,03285900969,,28.12,Fabbricazione di apparecchiature fluidodinamiche,28.12,Fabbricazione di apparecchiature fluidodinamiche
+4225,ETS- ELECTRIX TECNOLOGIE,04644850283,,43.23,Installazione di sistemi per l'isolamento,43.29.02,"Lavori di isolamento termico, acustico o antivibrazioni"
+4232,HIAB  ITALIA  SRL,01943080224,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.02,"Fabbricazione di gru, argani, verricelli a mano e a motore, carrelli trasbordatori, carrelli elevatori e piattaforme girevoli"
+4236,MSP  SRL,03531830366,,33.20.03,Installazione di strumenti e apparecchi di misurazione e controllo,33.20.03,"Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)"
+4239,SELCOM GROUP SPA,09865430962,,26.12,Fabbricazione di schede elettroniche integrate,26.12,Fabbricazione di schede elettroniche assemblate
+4240,FRATONI FORNITURE  SRL,01946480439,,46.9,Commercio all'ingrosso non specializzato,46.9,COMMERCIO ALL'INGROSSO NON SPECIALIZZATO
+4243,DELVER  SPA,01282340361,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4245,G.O.B.  SRL    con socio,03904790361,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+4253,MAXIL SRL  C/ SOCIO UNIC,02987521206,,27,Fabbricazione di apparecchiature elettriche,27,FABBRICAZIONE DI APPARECCHIATURE ELETTRICHE ED APPARECCHIATURE PER USO DOMESTICO NON ELETTRICHE
+4255,CAVAZZUTI  SRL,00178990362,,28.12,Fabbricazione di apparecchiature fluidodinamiche,28.12,Fabbricazione di apparecchiature fluidodinamiche
+4267,POLI SAS  DI RIGHI S. e,03107931200,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4268,VRM S.P.A.,01781981202,,30.91.2,Fabbricazione di parti e accessori per motocicli,30.91.2,Fabbricazione di accessori e pezzi staccati per motocicli e ciclomotori
+4275,OFFICINA BOCEDI SRL,01625490352,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4276,SATECH  SPA,02554340139,,28.29.99,Fabbricazione di altre macchine varie di impiego generale n.c.a.,28.29.99,Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a.
+4285,ERCO SRL,02775920354,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4293,COSMEC  SRL,03366030405,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4301,GVF  IMPIANTI  SRL,01923020356,,25.11,Fabbricazione di strutture metalliche e di parti di strutture metalliche,25.11,Fabbricazione di strutture metalliche e di parti di strutture
+4303,SEEDEX SRL,03347160362,,46.86.9,Commercio all'ingrosso di altri prodotti intermedi n.c.a.,46.76.9,Commercio all'ingrosso di altri prodotti intermedi n.c.a.
+4305,CEVOLANI  ITALIA  SRL,03692160132,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.99,Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a.
+4306,ZETAPACK SRL,04370360408,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4307,CORSI SRL,00598711208,,25.63.2,"Fabbricazione di stampi, portastampi, sagome, forme per macchine",25.73.2,"Fabbricazione di stampi, portastampi, sagome, forme per macchine"
+4310,MDM METROSOFT  SRL,00619251200,,62.1,Attività di programmazione informatica,62.01,Produzione di software non connesso all'edizione
+4312,ASCOM SERVICE  SRL,03593210366,,33.12,Riparazione e manutenzione di macchinari,33.12,Riparazione e manutenzione di macchinari
+4322,MOVITECH SRL,03787490360,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+4325,LUC&BEL SRL,03438920369,,32.50.52,Fabbricazione di forniture mediche e dentistiche,32.99.19,Fabbricazione di altre attrezzature ed altri articoli protettivi di sicurezza
+4327,TITAN ITALIA SPA,00500291208,,28.30.1,Fabbricazione di trattori per l'agricoltura e la silvicoltura,28.30.1,Fabbricazione di trattori agricoli
+4328,COCITO ETICHETTATRICI  S,03686431200,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4330,AB AUTOMATION SRL SOCIO,04288140405,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+4331,RINOVA  SRL     a  socio,03638861207,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4335,TIMA SRL,02670710355,,29.31,Fabbricazione di apparecchiature elettriche ed elettroniche per autoveicoli,29.31,Fabbricazione di apparecchiature elettriche ed elettroniche per autoveicoli e loro motori
+4336,LA TEMPERA  SRL,00501281208,,25.5,Trattamento e rivestimento dei metalli; lavori di meccanica generale,25.61,Trattamento e rivestimento dei metalli
+4353,NUOVA MONDIAL MEC  SRL,02092460407,,28.92,"Fabbricazione di macchine da miniera, cava e cantiere",28.92.09,"Fabbricazione di altre macchine da miniera, cava e cantiere (incluse parti e accessori)"
+4358,ILIP SRL,03499571200,,22.22,Fabbricazione di imballaggi in materie plastiche,22.22,Fabbricazione di imballaggi in materie plastiche
+4366,A.I.R. PNEUMATIC CENTER,01665420400,,46.89,Commercio all'ingrosso specializzato di altri prodotti n.c.a.,46.7,COMMERCIO ALL'INGROSSO SPECIALIZZATO DI ALTRI PRODOTTI
+4367,GRANDI RISO SPA  a socio,01571620382,,10.61.2,Lavorazione del riso,10.61.3,Lavorazione del riso
+4368,GI-MATICO  SRL,03759860368,,28.99.2,Fabbricazione di robot industriali con compiti multipli per scopi speciali,28.99.2,Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)
+4370,GEFRA  AUTOMAZIONE  SRL,03139621209,,28.99.2,Fabbricazione di robot industriali con compiti multipli per scopi speciali,28.99.2,Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)
+4374,SYSTEM CERAMICS  SPA,03718840360,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+4378,SIGMADUE SRL,03728451208,,25.11,Fabbricazione di strutture metalliche e di parti di strutture metalliche,25.11,Fabbricazione di strutture metalliche e di parti di strutture
+4382,ELETTROMECCANICA ICEB  S,03129860379,,27.11,"Fabbricazione di motori, generatori e trasformatori elettrici",27.11,"Fabbricazione di motori, generatori e trasformatori elettrici"
+4392,F.C.L.  SRL,01291670360,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4397,DUNA - CORRADINI  SPA,01803960366,,22.21,"Fabbricazione di lastre, fogli, tubi e profilati in materie plastiche",22.21,"Fabbricazione di lastre, fogli, tubi e profilati in materie plastiche"
+4412,MANITRONICA SRL A SOCIO,02049101203,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+4413,CAVALLERETTI STAMPAGGIO,01304190380,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4417,MEKSO  SRLS,05173950287,,46.84.1,Commercio all'ingrosso di ferramenta,46.74.1,Commercio all'ingrosso di articoli in ferro e in altri metalli (ferramenta)
+4427,C.E.I.  SPA,00707451209,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4434,FAMAGA GROUP GMBH & CO K,DE268455112,,,,,
+4435,GRILLO  SPA,00814230405,,28.3,Fabbricazione di macchine per l'agricoltura e la silvicoltura,28.3,FABBRICAZIONE DI MACCHINE PER L'AGRICOLTURA E LA SILVICOLTURA
+4443,AIR CLEAN & SERVICE SRL,02875470367,,46.64.6,Commercio all'ingrosso di macchinari e attrezzature per la pulizia,46.69.99,"Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+4446,SILVI  SRL,01703940351,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+4450,IMBRIANO  SRL,02805090640,,47.52.4,Commercio al dettaglio di attrezzature per il giardinaggio e la paesaggistica,47.52.4,"Commercio al dettaglio di macchine, attrezzature e prodotti per l'agricoltura; macchine e attrezzature per il giardinaggio"
+4453,FAAC SPA  SOC.UNIPERSONA,03820731200,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+4455,PEN-TEC SRL - UNIPERSONA,02072310390,,None,,28.29.1,
+4458,BHT  SRL,03372670368,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4460,F.A.S. SRL,02806551202,,46.62,Commercio all'ingrosso di macchine utensili,46.62,Commercio all'ingrosso di macchine utensili
+4461,GAZZA ANSELMO  SRL,00426440343,,46.84.2,Commercio all'ingrosso di apparecchi e accessori per impianti idraulici e di riscaldamento,46.74.2,"Commercio all'ingrosso di apparecchi e accessori per impianti idraulici, di riscaldamento e di condizionamento"
+4470,ATAFF  OLEODINAMICA  SRL,01924180340,,28.29.9,Fabbricazione di altre macchine varie di impiego generale,28.29.9,Fabbricazione di macchine di impiego generale ed altro materiale meccanico n.c.a.
+4473,TRANSTECNO SRL,00575261201,,28.15,"Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",28.15.1,"Fabbricazione di organi di trasmissione (esclusi quelli idraulici e quelli per autoveicoli, aeromobili e motocicli)"
+4478,GGS  SRL,03693861209,,28.42,Fabbricazione di altre macchine utensili,28.49.09,Fabbricazione di altre macchine utensili (incluse parti e accessori) n.c.a.
+4480,VAUTOHOME  SRL SOC.UNIPE,03861690406,,43.24.09,Altri lavori di installazione edili n.c.a.,43.29.09,Altri lavori di costruzione e installazione n.c.a.
+4484,SCHMUCKER  SRL,00373660315,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4505,ACERO  SRL,01009390392,,46.64.2,Commercio all'ingrosso di materiale elettrico per impianti industriali,46.69.2,Commercio all'ingrosso di materiale elettrico per impianti di uso industriale
+4516,EUROELETTRA  SRL,03734681202,,33.20.03,Installazione di strumenti e apparecchi di misurazione e controllo,33.20.03,"Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)"
+4529,ESTRELLA  DI  MONARI  F.,01717301202,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+4531,T.R. LAVORAZIONI MECCANI,00543970362,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4532,C.I.ME.S  SRL,01871960363,,28.29.99,Fabbricazione di altre macchine varie di impiego generale n.c.a.,28.29.99,Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a.
+4534,PHILIP-SERVICE  SRL -SOC,03482650367,,13.96,Fabbricazione di altri tessuti per uso tecnico e industriale,13.96.1,"Fabbricazione di nastri, etichette e passamanerie di fibre tessili"
+4537,SACMI PACKAGING & CHOCOL,04162551206,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4538,FEDEC  SRL,03942300363,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+4539,VELOMAT  SRL,02389780699,,28.29.99,Fabbricazione di altre macchine varie di impiego generale n.c.a.,28.29.99,Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a.
+4540,IPC  SPA,SM 03457,,,,,
+4542,MOLINO BASSINI  SRL,00500601208,,10.61.11,Lavorazione di frumento,10.61.1,Molitura del frumento
+4543,ELTRON  SPOLKA   Sp.K.,PL8971839531,,,,,
+4544,AUTOMATION TECHNOLOGY SO,03809940368,,33.20.09,Installazione di altre macchine e apparecchiature industriali,33.20.09,Installazione di altre macchine ed apparecchiature industriali
+4553,DEFRANCESCHI  SRL,03563141203,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4558,SHOCK  SRL,03984200364,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+4561,SNAP  ROBOTICS  SRL,02165080397,,28.99.2,Fabbricazione di robot industriali con compiti multipli per scopi speciali,28.99.2,Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)
+4562,CEBB  H.F.  TECHNOLOGY,03949121200,,28.96,Fabbricazione di macchine per l'industria delle materie plastiche e della gomma,28.96,Fabbricazione di macchine per l'industria delle materie plastiche e della gomma (incluse parti e accessori)
+4563,NUOVA C.G.S. SRL,00613700350,,28.29.99,Fabbricazione di altre macchine varie di impiego generale n.c.a.,28.29.99,Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a.
+4566,ILSA-MC  SRL,03919611206,,28.29.4,Fabbricazione di macchine per la pulizia per uso non domestico,28.29.92,Fabbricazione di macchine per la pulizia (incluse le lavastoviglie) per uso non domestico
+4568,NAVINT  SRL,01260490998,,71.1,"Attività di architettura, di ingegneria e altre consulenze tecniche connesse",71.1,"ATTIVITÀ DEGLI STUDI DI ARCHITETTURA, INGEGNERIA ED ALTRI STUDI TECNICI"
+4569,PICTOR COOPERATIVA SOCIA,01554711208,,81.21,Attività di pulizia generale di edifici,81.21,Pulizia generale (non specializzata) di edifici
+4570,ISAF SRL,01049590399,,25,"Fabbricazione di prodotti in metallo, esclusi macchinari e attrezzature",25,FABBRICAZIONE DI PRODOTTI IN METALLO (ESCLUSI MACCHINARI E ATTREZZATURE)
+4571,T.S. FOOD PROCESSING SRL,09104390969,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4572,PARINI SRL,01967500354,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4573,ACR  SRL,01671330346,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4578,M.C.M.  SPA,01172010330,,28.4,Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili,28.4,FABBRICAZIONE DI MACCHINE PER LA FORMATURA DEI METALLI E DI ALTRE MACCHINE UTENSILI
+4582,FMT  SRL,01985760345,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4583,METALNOVA  SPA,00762710341,,28.3,Fabbricazione di macchine per l'agricoltura e la silvicoltura,28.3,FABBRICAZIONE DI MACCHINE PER L'AGRICOLTURA E LA SILVICOLTURA
+4585,OSTI AUTOMATION  SRL,02064830389,,28.99.2,Fabbricazione di robot industriali con compiti multipli per scopi speciali,28.99.2,Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)
+4586,ZEFA   SRL,02455260345,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4587,GRAF SYNERGY  SRL,03301060368,,28.96,Fabbricazione di macchine per l'industria delle materie plastiche e della gomma,28.96,Fabbricazione di macchine per l'industria delle materie plastiche e della gomma (incluse parti e accessori)
+4593,ELUMATEC  AG,DE815468968,,,,,
+4594,MECCANO  SRL,02424150361,,28.99.2,Fabbricazione di robot industriali con compiti multipli per scopi speciali,28.99.2,Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)
+4595,GAIOTTO  AUTOMATION  SPA,01175340197,,28.99.2,Fabbricazione di robot industriali con compiti multipli per scopi speciali,28.99.2,Fabbricazione di robot industriali per usi molteplici (incluse parti e accessori)
+4596,COOPERATIVA  MODENESE,02308270483,,01.63.1,Attività successive alla raccolta,01.63,Attività successive alla raccolta
+4597,TECOMA DRYING TECHNOLOGY,03343510362,,28.2,Fabbricazione di altre macchine di impiego generale,28.2,FABBRICAZIONE DI ALTRE MACCHINE DI IMPIEGO GENERALE
+4599,FP MECCANICA  SRL,03721611204,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4601,AGMA  ARREDO INOX PROFES,00748340254,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4603,SNOW  SERVICE  SRL,03417630369,,28.29.9,Fabbricazione di altre macchine varie di impiego generale,28.29.9,Fabbricazione di macchine di impiego generale ed altro materiale meccanico n.c.a.
+4604,GUERZE'  &  CO.  SRL,02634300350,,82.99.99,Tutti gli altri servizi vari di supporto alle imprese n.c.a.,82.99.99,Altri servizi di sostegno alle imprese n.c.a.
+4606,EUROCAB  SRL,01896181201,,27.33,Fabbricazione di attrezzature per cablaggio,27.33,Fabbricazione di attrezzature per cablaggio
+4607,QUEMME  FSE  SRL,03711871206,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4609,RPC PIEGATRICI  SRL,01529590331,,28.41,Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili per la lavorazione dei metalli,28.41,Fabbricazione di macchine utensili per la formatura dei metalli
+4615,G.F.  SPA,00577200348,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+4618,TWINOVA  SRL,01829260338,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4622,LMV  SRL,03884670401,,25.11,Fabbricazione di strutture metalliche e di parti di strutture metalliche,25.11,Fabbricazione di strutture metalliche e di parti di strutture
+4624,LE  NAIADI  SRL,02759031202,,10.83.02,Lavorazione di caffè,10.83.01,Lavorazione del caffè
+4625,I.S.AUTOMAZIONI IN LIQUI,04053290369,,33.20.02,Installazione di apparecchiature per le comunicazioni e di apparecchiature radiotelevisive,33.20.02,"Installazione di apparecchi elettrici ed elettronici per telecomunicazioni, di apparecchi trasmittenti radiotelevisivi, di impianti di apparecchiature elettriche ed elettroniche (esclusa l'installazione all'interno degli edifici)"
+4626,ELETTRO-RENO  SRL,03989651207,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4628,TWIN PACK  SRL,01080680331,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4629,DORATURA'84  SRL,00617531207,,25.51,Rivestimento dei metalli,25.61,Trattamento e rivestimento dei metalli
+4630,E-TEAM  TECNOLOGY  SRL,04058140361,,26.11,Fabbricazione di componenti elettronici,26.11.09,Fabbricazione di altri componenti elettronici
+4632,SAE  FLEX  SPA,03245930171,,46.64.99,Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.,46.69.99,"Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+4634,VALMATIC  SRL,01281100360,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4636,NTG AUTOMATION SRL,03707371203,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4638,ALFA SRL,03364471205,,28.29.2,Fabbricazione di impianti di distillazione o rettificazione per raffinerie di petrolio e industrie chimiche,28.29.2,"Fabbricazione di macchine e apparecchi per le industrie chimiche, petrolchimiche e petrolifere (incluse parti e accessori)"
+4642,FAR SRL,00687071209,,25.94,Fabbricazione di articoli di bulloneria,25.94,Fabbricazione di articoli di bulloneria
+4644,LIFT TRUCK EQUIPMENT SPA,00719290389,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.09,Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione
+4647,TORNERIA DUE C  SRL,00678161209,,25.99.9,Fabbricazione di altri prodotti vari in metallo n.c.a.,25.99.99,Fabbricazione di altri articoli metallici e minuteria metallica n.c.a.
+4648,OMAR IMPIANTI SRL,03992301204,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4652,IMECON  SRL,01433170196,,26.2,Fabbricazione di computer e unità periferiche,26.2,FABBRICAZIONE DI COMPUTER E UNITÀ PERIFERICHE
+4653,MOLPASS  SRL,01669261206,,43.24.09,Altri lavori di installazione edili n.c.a.,43.29.09,Altri lavori di costruzione e installazione n.c.a.
+4655,WINTRADE  SRL,02273921201,,46.86.9,Commercio all'ingrosso di altri prodotti intermedi n.c.a.,46.76.9,Commercio all'ingrosso di altri prodotti intermedi n.c.a.
+4656,METALSIDER  SPA,01136730395,,25.4,Fucinatura e formatura dei metalli e metallurgia delle polveri,25.5,"FUCINATURA, IMBUTITURA, STAMPAGGIO E PROFILATURA DEI METALLI; METALLURGIA DELLE POLVERI"
+4660,POGGI CLAUDIO  P.F.M. AU,01285930333,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4661,MECCTRONIC  SRL,02886260369,,28.2,Fabbricazione di altre macchine di impiego generale,28.2,FABBRICAZIONE DI ALTRE MACCHINE DI IMPIEGO GENERALE
+4665,MULTIMATIC GMBH & CO  KG,DE275922365,,,,,
+4667,COMETA SPA,05048340482,,26.3,Fabbricazione di apparecchiature per le comunicazioni,26.3,FABBRICAZIONE DI APPARECCHIATURE PER LE TELECOMUNICAZIONI
+4668,VARMEC SRL,00761010248,,28.15,"Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",28.15.1,"Fabbricazione di organi di trasmissione (esclusi quelli idraulici e quelli per autoveicoli, aeromobili e motocicli)"
+4669,TECNO ITALIA  DIGITAL  S,04001070368,,None,,28.99.99,
+4671,COMECER SIENA SRL,00813190527,,28.29.2,Fabbricazione di impianti di distillazione o rettificazione per raffinerie di petrolio e industrie chimiche,28.29.2,"Fabbricazione di macchine e apparecchi per le industrie chimiche, petrolchimiche e petrolifere (incluse parti e accessori)"
+4672,ACETUM  SPA,03593570363,,10.84,Produzione di condimenti e spezie,10.84,Produzione di condimenti e spezie
+4673,TMHE LOGISTICS  AB,BE0819937337,,,,,
+4677,MICROELETTRICA  SRL,02309240360,,46.47.3,"Commercio all'ingrosso di articoli per l'illuminazione per la casa, l'ufficio e i negozi",46.47.3,Commercio all'ingrosso di articoli per l'illuminazione; materiale elettrico vario per uso domestico
+4678,DOT  SRL,02237380361,,26.11,Fabbricazione di componenti elettronici,26.11.09,Fabbricazione di altri componenti elettronici
+4679,LINCOTEK  RUBBIANO  SPA,02087600348,,25.5,Trattamento e rivestimento dei metalli; lavori di meccanica generale,25.61,Trattamento e rivestimento dei metalli
+4680,PHARMASHOP24  SRL,02722620354,,28.29.1,Fabbricazione di bilance e distributori automatici,28.29.1,Fabbricazione di bilance e di macchine automatiche per la vendita e la distribuzione (incluse parti staccate e accessori)
+4681,VEHICLE SERVICE GROUP IT,01426630388,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.09,Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione
+4682,SINERCON  AUTOMATION  SR,03687440366,,33.20.09,Installazione di altre macchine e apparecchiature industriali,33.20.09,Installazione di altre macchine ed apparecchiature industriali
+4683,MARCHETTI PACKAGING  SRL,07703940960,,None,,27.9,
+4684,PLASCO  SRL,02140690385,,None,,28.96,
+4687,BCM  AUTOMAZIONI SRL,02950230355,,28.29.99,Fabbricazione di altre macchine varie di impiego generale n.c.a.,28.29.99,Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a.
+4688,ITECH  SOLUTION SRL,04118151200,,28.94.3,Fabbricazione di macchine per lavanderie e stirerie,28.94.3,Fabbricazione di apparecchiature e di macchine per lavanderie e stirerie (incluse parti e accessori)
+4689,TECHNOPI  SOLUTIONS SRL,04027000365,,62.1,Attività di programmazione informatica,62.01,Produzione di software non connesso all'edizione
+4691,MOLINS  S.R.O.,CZ25247875,,,,,
+4692,F.LLI BUCCIOL  SRL,00522711209,,25.63.2,"Fabbricazione di stampi, portastampi, sagome, forme per macchine",25.73.2,"Fabbricazione di stampi, portastampi, sagome, forme per macchine"
+4696,GILLI SRL  UNIPERSONALE,00540811205,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4700,ATLAS AUTOMATION SRL,03781840362,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4703,ERREVI  CERAMICS  SRL,04101520361,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+4704,SIOME  SRL,02852160122,,46.64.2,Commercio all'ingrosso di materiale elettrico per impianti industriali,46.69.2,Commercio all'ingrosso di materiale elettrico per impianti di uso industriale
+4705,BILUX  DI   BOLDINI  * L,01644971200,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4706,METALCARRELLI   SRL,03249750401,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4707,AXA  GROUP  SRL,03300121203,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.09,Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione
+4708,PANEL  HT  SRL,04110230366,,33.20.03,Installazione di strumenti e apparecchi di misurazione e controllo,33.20.03,"Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)"
+4710,OMM GROUP  SRL,04041181209,,28.99.1,Fabbricazione di macchine per la stampa e la legatoria,28.99.1,Fabbricazione di macchine per la stampa e la legatoria (incluse parti e accessori)
+4711,GARBARINO PAOLO & C.  SN,01225540085,,95.31.1,"Riparazione e manutenzione meccanica, elettrica ed elettronica di autoveicoli",45.20.1,Riparazioni meccaniche di autoveicoli
+4712,CIROCCO IMPIANTI   SRL,03626760361,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4713,MARCO MARZADORI  SRL,04164281208,,23.91,Fabbricazione di prodotti abrasivi,23.91,Produzione di prodotti abrasivi
+4716,CABLES  SRL,04164450407,,27.11,"Fabbricazione di motori, generatori e trasformatori elettrici",27.11,"Fabbricazione di motori, generatori e trasformatori elettrici"
+4717,FIMAT  SRL,04905930485,,47.52.1,"Commercio al dettaglio di ferramenta, vernici, vetro e materiale elettrico e termoidraulico",47.52.1,"Commercio al dettaglio di ferramenta, vernici, vetro piano e materiale elettrico e termoidraulico"
+4719,E.S.A. SRL,03623871203,,28.29.99,Fabbricazione di altre macchine varie di impiego generale n.c.a.,28.29.99,Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a.
+4720,4HEALTH  SRL,03367341207,,46.38,Commercio all'ingrosso di altri prodotti alimentari,46.38.9,Commercio all'ingrosso di altri prodotti alimentari
+4722,LG AUTO S.R.L.S.,03735131207,,47.81.1,Commercio al dettaglio di automobili e autoveicoli leggeri,45.11.01,Commercio all'ingrosso e al dettaglio di autovetture e di autoveicoli leggeri
+4725,CP ITALY  SRL,04191641200,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4726,REVOTEC  SRL,03461581203,,33.12.54,Riparazione e manutenzione di macchine per impacchettare e imballare,33.12.54,"Riparazione e manutenzione di macchine per la dosatura, la confezione e l'imballaggio"
+4728,SIVEM SNC,00465420354,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+4729,WOLF SYSTEM SRL,02288981208,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4730,CABLEX ITA SRL,02147390385,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+4731,RICREATEC SRL,01667810558,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+4732,AUTOCENTRO  DI PECORA PA,01602690784,,38.21.12,Smantellamento di altre carcasse,38.31.1,Demolizione di carcasse
+4733,TOSI  FRANCESCO,02098950385,,33.12.59,Riparazione e manutenzione di altre macchine di impiego generale n.c.a.,33.12.59,Riparazione e manutenzione di altre macchine di impiego generale n.c.a.
+4734,STEEL MOTION SRL  A Soci,03507900367,,28.29.99,Fabbricazione di altre macchine varie di impiego generale n.c.a.,28.29.99,Fabbricazione di altro materiale meccanico e di altre macchine di impiego generale n.c.a.
+4735,CHIOSSI E CAVAZZUTI  SRL,01357650355,,28.21.1,Fabbricazione di forni,28.21.1,"Fabbricazione di forni, fornaci e bruciatori"
+4736,ITALVISION  SRL,01778640357,,33.20.03,Installazione di strumenti e apparecchi di misurazione e controllo,33.20.03,"Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)"
+4738,NO.GI.SA. SRL,00327580270,,25.99.9,Fabbricazione di altri prodotti vari in metallo n.c.a.,25.99.99,Fabbricazione di altri articoli metallici e minuteria metallica n.c.a.
+4739,ZAMBELLI PACKAGING  SRL,04212281200,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4741,ALCOTEC ITALIA SRL,03614171209,,41,Costruzione di edifici residenziali e non residenziali,41.2,COSTRUZIONE DI EDIFICI RESIDENZIALI E NON RESIDENZIALI
+4742,ELTRA  TRADE GROUP s.r.o,SK2122680769,,,,,
+4743,MEW  SRL,02521040358,,46.64.99,Commercio all'ingrosso di altri macchinari e attrezzature varie n.c.a.,46.69.99,"Commercio all'ingrosso di altre macchine ed attrezzature per l'industria, il commercio e la navigazione n.c.a."
+4744,NUOVA  BELLOSI  SRL,03591931203,,01.48.99,Allevamento di altri animali vari n.c.a.,01.49.9,Allevamento di altri animali n.c.a.
+4745,HIAB FINLAND OY,FI32453653,,,,,
+4746,PIOVANI  ASCENSORI  SRL,00151630357,,43.24.01,Installazione di ascensori e scale mobili,43.29.01,"Installazione, riparazione e manutenzione di ascensori e scale mobili"
+4748,FUTURA SRL,07148760965,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4750,MARZOCCHI SUSPENSION S.R,04234531202,,30.91.2,Fabbricazione di parti e accessori per motocicli,30.91.2,Fabbricazione di accessori e pezzi staccati per motocicli e ciclomotori
+4752,ALMA  TECHNOLOGY  SRL,03227330366,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4753,ELICA  ASM  SRL,03100230378,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4754,3E2000  SNC,02043591201,,43.21,Installazione di impianti elettrici,43.21.02,Installazione di impianti elettronici (inclusa manutenzione e riparazione)
+4755,SN PROJECT TECHNOLOGY,05907910482,,62.1,Attività di programmazione informatica,62.01,Produzione di software non connesso all'edizione
+4756,VDC WIRING 2.0 SRL,03714971201,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+4757,VETRORESINA SPA,00814320388,,22.2,Fabbricazione di prodotti in materie plastiche,22.2,FABBRICAZIONE DI ARTICOLI IN MATERIE PLASTICHE
+4758,ARTICA DI GIARDINI CRIST,02537640399,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4759,G.E.T. SRLS,03484571207,,28.29.3,"Fabbricazione di macchine per la dosatura, la confezione e per l'imballaggio",28.29.3,"Fabbricazione di macchine automatiche per la dosatura, la confezione e per l'imballaggio (incluse parti e accessori)"
+4761,ZANINI SRL A SOCIO UNICO,00592181200,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4762,BMCR SRL,03379710407,,28.99.99,Fabbricazione di tutte le altre macchine varie per impieghi speciali n.c.a.,28.99.99,Fabbricazione di altre macchine ed attrezzature per impieghi speciali n.c.a. (incluse parti e accessori)
+4764,DL SERVICES  ASS.ZA MACC,03926710363,,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)
+4765,GE.MA. SRL,04089421202,,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)
+4766,MICROM SRL,01890420357,,33.20.03,Installazione di strumenti e apparecchi di misurazione e controllo,33.20.03,"Installazione di strumenti ed apparecchi di misurazione, controllo, prova, navigazione e simili (incluse le apparecchiature di controllo dei processi industriali)"
+4768,GRAZIANO SRL,02535510396,,10.73,Produzione di prodotti farinacei,10.73,"Produzione di paste alimentari, di cuscus e di prodotti farinacei simili"
+4769,IMOSS,03859681201,,62.20.2,Attività di gestione di strutture informatiche,62.03,Gestione di strutture informatizzate
+4770,ERREUNO SRL,02379290345,,27.12,Fabbricazione di apparecchiature per la distribuzione e il controllo dell'elettricità,27.12,Fabbricazione di apparecchiature per le reti di distribuzione e il controllo dell'elettricità
+4771,PLAST SERVICE SRL,04247161203,,28.96,Fabbricazione di macchine per l'industria delle materie plastiche e della gomma,28.96,Fabbricazione di macchine per l'industria delle materie plastiche e della gomma (incluse parti e accessori)
+4772,SULZER ITALY SRL,00526811203,,46.84.2,Commercio all'ingrosso di apparecchi e accessori per impianti idraulici e di riscaldamento,46.74.2,"Commercio all'ingrosso di apparecchi e accessori per impianti idraulici, di riscaldamento e di condizionamento"
+4773,TONELLI SPA,SM 02347,,,,,
+4774,PETTAZZONI DAVIDE SERVIC,04041041205,,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)
+4775,WIPRO FERRETTO SRL,04479950240,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.09,Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione
+4776,ATLACOOP SOCIETA' COOPER,01234110482,,25.12.1,"Fabbricazione di porte, finestre e loro telai, imposte e cancelli in metallo",25.12.1,"Fabbricazione di porte, finestre e loro telai, imposte e cancelli metallici"
+4777,D.L.S. IMPIANTI SRLS,03763290784,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4778,MECHNOLOGY SRL A SOCIO U,00516171204,,28.15,"Fabbricazione di cuscinetti, ingranaggi e organi di trasmissione",28.15.1,"Fabbricazione di organi di trasmissione (esclusi quelli idraulici e quelli per autoveicoli, aeromobili e motocicli)"
+4780,C.P.C. SRL A SOCIO UNICO,00157040361,,25.63.2,"Fabbricazione di stampi, portastampi, sagome, forme per macchine",25.73.2,"Fabbricazione di stampi, portastampi, sagome, forme per macchine"
+4781,MICOPERI SPA,01823211204,,33.20.09,Installazione di altre macchine e apparecchiature industriali,33.20.09,Installazione di altre macchine ed apparecchiature industriali
+4782,ABITEL SRL,04289720379,,43.24.01,Installazione di ascensori e scale mobili,43.29.01,"Installazione, riparazione e manutenzione di ascensori e scale mobili"
+4783,STYLFLANGE SRL,04704500406,,46.9,Commercio all'ingrosso non specializzato,46.9,COMMERCIO ALL'INGROSSO NON SPECIALIZZATO
+4784,STARDAY  SRL,00621481209,,46.50.2,Commercio all'ingrosso di apparecchiature per telecomunicazioni,46.52,Commercio all'ingrosso di apparecchiature elettroniche per telecomunicazioni e componenti elettronici
+4785,GRANDI ANDREA SRL,00497451203,,25.53,Lavori di meccanica generale dei metalli,25.62,Lavori di meccanica generale
+4786,C.E.I.,00523841203,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+4788,INTEGRATIONTECH SRL,12988630963,,85.59.2,Corsi di formazione e corsi di aggiornamento professionale,85.59.2,Corsi di formazione e corsi di aggiornamento professionale
+4789,DUE M SNC,01532091202,,33.20.02,Installazione di apparecchiature per le comunicazioni e di apparecchiature radiotelevisive,33.20.02,"Installazione di apparecchi elettrici ed elettronici per telecomunicazioni, di apparecchi trasmittenti radiotelevisivi, di impianti di apparecchiature elettriche ed elettroniche (esclusa l'installazione all'interno degli edifici)"
+4790,ELICA PROCESSING OOD,BG118582178,,,,,
+4791,OFFICINA DEA SRL,00298090101,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4794,FINLOGIC SPA,02379641208,,17.23.09,Fabbricazione di altri prodotti cartotecnici,17.23.09,Fabbricazione di altri prodotti cartotecnici
+4795,AURA SRL,02748360399,,27.40.09,Fabbricazione di altre apparecchiature per l'illuminazione,27.40.09,Fabbricazione di altre apparecchiature per illuminazione
+4796,TECHNOLOGICAL SYSTEMS SR,02766650598,,43.21.01,Installazione di impianti di illuminazione e fotovoltaici in edifici,43.21.01,Installazione di impianti elettrici in edifici o in altre opere di costruzione (inclusa manutenzione e riparazione)
+4797,MLC POWER AUTOMATION AG,RO32233748,,,,,
+4800,MI.NI.MA. SRL,04125261208,,22.26.99,Fabbricazione di altri prodotti vari in materie plastiche n.c.a.,22.29.09,Fabbricazione di altri articoli in materie plastiche n.c.a.
+4801,MARCEGAGLIA RAVENNA SPA,02559130204,,24.1,"Fabbricazione di ferro, acciaio e ferroleghe",24.1,SIDERURGIA
+4803,AUTOMA 2000 SRL,01582080352,,27.90.01,Fabbricazione di apparecchiature elettriche per saldatura e brasatura,27.90.01,Fabbricazione di apparecchiature elettriche per saldature e brasature
+4804,EMERGY GROUP SRL,04070400363,,33.20.09,Installazione di altre macchine e apparecchiature industriali,33.20.09,Installazione di altre macchine ed apparecchiature industriali
+4805,ELTRON,02029401201,,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a.,33.12.99,Riparazione e manutenzione di altre macchine per impieghi speciali n.c.a. (incluse le macchine utensili)
+4806,B&B ELETTROMECCANICA SRL,00921570529,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+4807,TREEDOM SOLUTION SRL,04069611202,,74.99.99,"Tutte le altre attività varie professionali, scientifiche e tecniche n.c.a.",74.90.93,Altre attività di consulenza tecnica n.c.a.
+4810,AFC ELETTRICA SRL ARTIGI,04771230481,,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.,27.90.09,Fabbricazione di altre apparecchiature elettriche n.c.a.
+4814,D.R.D. ELETTRONICA SRL,01856450166,,46.64.2,Commercio all'ingrosso di materiale elettrico per impianti industriali,46.69.2,Commercio all'ingrosso di materiale elettrico per impianti di uso industriale
+4815,BOLOGNA PRESSE,03850741202,,28.41,Fabbricazione di macchine per la deformazione dei metalli e di altre macchine utensili per la lavorazione dei metalli,28.41,Fabbricazione di macchine utensili per la formatura dei metalli
+4816,MARK ONE SRL,04249560402,,26.2,Fabbricazione di computer e unità periferiche,26.2,FABBRICAZIONE DI COMPUTER E UNITÀ PERIFERICHE
+4820,MAXIL.2 SRL,04334981208,,27.33,Fabbricazione di attrezzature per cablaggio,27.33,Fabbricazione di attrezzature per cablaggio
+4821,STUDIOEMME S.A.S.,00539931204,,71.1,"Attività di architettura, di ingegneria e altre consulenze tecniche connesse",71.1,"ATTIVITÀ DEGLI STUDI DI ARCHITETTURA, INGEGNERIA ED ALTRI STUDI TECNICI"
+4822,ECIM DI GIACOBAZZI GIORG,04193340363,,26.2,Fabbricazione di computer e unità periferiche,26.2,FABBRICAZIONE DI COMPUTER E UNITÀ PERIFERICHE
+4823,M.B.M. SERVICES SRL,03604930408,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
+4824,MCM MANUFACTURING TECHNO,01919840338,,-,,-,
+4825,EUROGRU SRL,02853750699,,28.22.09,Fabbricazione di altri apparecchi di sollevamento e movimentazione,28.22.09,Fabbricazione di altre macchine e apparecchi di sollevamento e movimentazione
+4831,F.LLI CUOMO S.A.S.,00205200652,,28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco",28.93,"Fabbricazione di macchine per l'industria alimentare, delle bevande e del tabacco"
